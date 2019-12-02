@@ -1,8 +1,8 @@
 ,Predictive LCA_Caudal,Predictive LCA_Cranial,Predictive LCA_Cranial_LAO,Predictive LCA_Cranial_RAO,Predictive LCA_Spider,Predictive RCA_Cranial,Predictive RCA_LAO
-LCA_Caudal,10,0,0,0,0,0,0
-LCA_Cranial,0,11,0,2,0,1,0
-LCA_Cranial_LAO,0,2,7,0,0,1,0
-LCA_Cranial_RAO,0,1,0,10,0,0,0
-LCA_Spider,0,0,0,0,9,1,0
-RCA_Cranial,0,0,1,0,0,7,2
+LCA_Caudal,19,0,0,0,1,0,0
+LCA_Cranial,0,18,3,2,0,1,0
+LCA_Cranial_LAO,0,7,11,1,1,0,0
+LCA_Cranial_RAO,0,5,0,16,0,0,0
+LCA_Spider,0,0,0,0,18,1,0
+RCA_Cranial,0,2,1,0,0,15,2
 RCA_LAO,0,0,0,0,0,0,11
