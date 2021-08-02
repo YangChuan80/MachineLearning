@@ -1,0 +1,18 @@
+Accuracy: 0.975
+
+Performance Report: 
+                    precision    recall  f1-score   support
+
+            chr_05       1.00      0.97      0.98        29
+chr_5_p14_deletion       0.92      1.00      0.96        11
+
+         micro avg       0.97      0.97      0.97        40
+         macro avg       0.96      0.98      0.97        40
+      weighted avg       0.98      0.97      0.98        40
+
+
+Confusion Matrix: 
+                    chr_05  chr_5_p14_deletion
+chr_05                  28                   1
+chr_5_p14_deletion       0                  11.
+
