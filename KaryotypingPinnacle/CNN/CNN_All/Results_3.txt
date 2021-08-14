@@ -1,60 +1,60 @@
-Accuracy: 0.7853773832321167
+Accuracy: 0.849056601524353
 
 Performance Report: 
                           precision    recall  f1-score   support
 
-                   chr_x       0.74      0.74      0.74        27
-                  chr_01       0.90      0.90      0.90        10
-                  chr_02       0.69      0.90      0.78        10
+                   chr_x       0.70      0.85      0.77        27
+                  chr_01       0.91      1.00      0.95        10
+                  chr_02       0.90      0.90      0.90        10
                   chr_03       1.00      1.00      1.00        10
-                  chr_04       0.67      0.60      0.63        10
-                  chr_05       0.72      0.79      0.75        29
-                  chr_06       0.83      1.00      0.91        10
-                  chr_07       1.00      0.80      0.89        10
-                  chr_08       0.53      0.80      0.64        10
-                  chr_09       0.69      0.73      0.71        37
+                  chr_04       0.80      0.80      0.80        10
+                  chr_05       0.89      0.83      0.86        29
+                  chr_06       0.91      1.00      0.95        10
+                  chr_07       1.00      0.90      0.95        10
+                  chr_08       0.80      0.80      0.80        10
+                  chr_09       0.74      0.76      0.75        37
                   chr_10       0.75      0.90      0.82        10
-                  chr_11       0.69      0.90      0.78        10
-                  chr_12       0.73      0.80      0.76        10
-                  chr_13       1.00      0.70      0.82        10
-                  chr_14       0.73      0.80      0.76        10
-                  chr_15       0.90      0.90      0.90        10
-                  chr_16       0.78      0.70      0.74        10
+                  chr_11       0.80      0.80      0.80        10
+                  chr_12       0.67      1.00      0.80        10
+                  chr_13       1.00      0.80      0.89        10
+                  chr_14       0.90      0.90      0.90        10
+                  chr_15       0.91      1.00      0.95        10
+                  chr_16       0.75      0.60      0.67        10
                   chr_17       0.80      0.80      0.80        10
-                  chr_18       0.82      0.92      0.87        25
-                  chr_19       0.75      0.90      0.82        10
+                  chr_18       0.80      0.96      0.87        25
+                  chr_19       0.90      0.90      0.90        10
                   chr_20       1.00      0.90      0.95        10
-                  chr_21       1.00      1.00      1.00        10
-                  chr_22       0.78      0.70      0.74        10
-                   chr_y       0.92      0.87      0.89        38
-     chr_18_p11_deletion       0.73      0.73      0.73        11
-chr_18_q10_isochromosome       0.60      0.75      0.67         4
-         chr_9_inversion       0.79      0.60      0.68        25
-      chr_5_p14_deletion       0.83      0.45      0.59        11
-     chr_x_isochromosome       1.00      0.67      0.80         9
-           chr_x_p22_cnv       0.25      0.20      0.22         5
-           chr_x_q21_cnv       1.00      0.86      0.92         7
-      chr_x_q22_deletion       0.60      0.50      0.55         6
+                  chr_21       0.91      1.00      0.95        10
+                  chr_22       0.83      1.00      0.91        10
+                   chr_y       1.00      0.95      0.97        38
+     chr_18_p11_deletion       1.00      0.73      0.84        11
+chr_18_q10_isochromosome       0.75      0.75      0.75         4
+         chr_9_inversion       0.84      0.64      0.73        25
+      chr_5_p14_deletion       0.82      0.82      0.82        11
+     chr_x_isochromosome       1.00      0.89      0.94         9
+           chr_x_p22_cnv       1.00      0.40      0.57         5
+           chr_x_q21_cnv       0.86      0.86      0.86         7
+      chr_x_q22_deletion       0.75      0.50      0.60         6
 
-               micro avg       0.79      0.79      0.79       424
-               macro avg       0.79      0.78      0.77       424
-            weighted avg       0.80      0.79      0.78       424
+               micro avg       0.85      0.85      0.85       424
+               macro avg       0.86      0.84      0.84       424
+            weighted avg       0.86      0.85      0.85       424
 
 
 Confusion Matrix: 
                           chr_x  chr_01  chr_02  chr_03  chr_04  chr_05  \
-chr_x                        20       0       0       0       0       0   
-chr_01                        0       9       1       0       0       0   
+chr_x                        23       0       0       0       0       0   
+chr_01                        0      10       0       0       0       0   
 chr_02                        0       1       9       0       0       0   
 chr_03                        0       0       0      10       0       0   
-chr_04                        0       0       1       0       6       3   
-chr_05                        0       0       1       0       3      23   
+chr_04                        0       0       0       0       8       2   
+chr_05                        0       0       0       0       2      24   
 chr_06                        0       0       0       0       0       0   
 chr_07                        0       0       0       0       0       0   
-chr_08                        0       0       0       0       0       0   
-chr_09                        3       0       0       0       0       0   
+chr_08                        1       0       0       0       0       0   
+chr_09                        4       0       0       0       0       0   
 chr_10                        0       0       0       0       0       0   
-chr_11                        1       0       0       0       0       0   
+chr_11                        0       0       0       0       0       0   
 chr_12                        0       0       0       0       0       0   
 chr_13                        0       0       0       0       0       0   
 chr_14                        0       0       0       0       0       0   
@@ -69,46 +69,46 @@ chr_22                        0       0       0       0       0       0
 chr_y                         0       0       0       0       0       0   
 chr_18_p11_deletion           0       0       0       0       0       0   
 chr_18_q10_isochromosome      0       0       0       0       0       0   
-chr_9_inversion               0       0       0       0       0       1   
-chr_5_p14_deletion            0       0       0       0       0       5   
-chr_x_isochromosome           1       0       1       0       0       0   
-chr_x_p22_cnv                 2       0       0       0       0       0   
-chr_x_q21_cnv                 0       0       0       0       0       0   
-chr_x_q22_deletion            0       0       0       0       0       0   
+chr_9_inversion               0       0       0       0       0       0   
+chr_5_p14_deletion            0       0       0       0       0       1   
+chr_x_isochromosome           0       0       1       0       0       0   
+chr_x_p22_cnv                 3       0       0       0       0       0   
+chr_x_q21_cnv                 1       0       0       0       0       0   
+chr_x_q22_deletion            1       0       0       0       0       0   
 
                           chr_06  chr_07  chr_08  chr_09  ...  chr_22  chr_y  \
-chr_x                          0       0       2       2  ...       0      0   
+chr_x                          0       0       1       0  ...       0      0   
 chr_01                         0       0       0       0  ...       0      0   
 chr_02                         0       0       0       0  ...       0      0   
 chr_03                         0       0       0       0  ...       0      0   
 chr_04                         0       0       0       0  ...       0      0   
-chr_05                         0       0       0       0  ...       0      0   
+chr_05                         0       0       0       1  ...       0      0   
 chr_06                        10       0       0       0  ...       0      0   
-chr_07                         1       8       0       0  ...       0      0   
-chr_08                         0       0       8       1  ...       0      0   
-chr_09                         1       0       2      27  ...       0      0   
-chr_10                         0       0       1       0  ...       0      0   
+chr_07                         0       9       0       1  ...       0      0   
+chr_08                         0       0       8       0  ...       0      0   
+chr_09                         0       0       1      28  ...       0      0   
+chr_10                         0       0       0       0  ...       0      0   
 chr_11                         0       0       0       0  ...       0      0   
 chr_12                         0       0       0       0  ...       0      0   
-chr_13                         0       0       0       0  ...       0      1   
+chr_13                         0       0       0       0  ...       0      0   
 chr_14                         0       0       0       0  ...       0      0   
 chr_15                         0       0       0       0  ...       0      0   
-chr_16                         0       0       0       0  ...       1      0   
-chr_17                         0       0       0       0  ...       0      1   
-chr_18                         0       0       0       0  ...       0      1   
+chr_16                         0       0       0       0  ...       0      0   
+chr_17                         0       0       0       0  ...       0      0   
+chr_18                         0       0       0       0  ...       0      0   
 chr_19                         0       0       0       0  ...       1      0   
 chr_20                         0       0       0       0  ...       0      0   
 chr_21                         0       0       0       0  ...       0      0   
-chr_22                         0       0       0       0  ...       7      0   
-chr_y                          0       0       0       0  ...       0     33   
+chr_22                         0       0       0       0  ...      10      0   
+chr_y                          0       0       0       0  ...       1     36   
 chr_18_p11_deletion            0       0       0       0  ...       0      0   
 chr_18_q10_isochromosome       0       0       0       0  ...       0      0   
-chr_9_inversion                0       0       0       7  ...       0      0   
+chr_9_inversion                1       0       0       7  ...       0      0   
 chr_5_p14_deletion             0       0       0       1  ...       0      0   
 chr_x_isochromosome            0       0       0       0  ...       0      0   
-chr_x_p22_cnv                  0       0       2       0  ...       0      0   
+chr_x_p22_cnv                  0       0       0       0  ...       0      0   
 chr_x_q21_cnv                  0       0       0       0  ...       0      0   
-chr_x_q22_deletion             0       0       0       1  ...       0      0   
+chr_x_q22_deletion             0       0       0       0  ...       0      0   
 
                           chr_18_p11_deletion  chr_18_q10_isochromosome  \
 chr_x                                       0                         1   
@@ -125,7 +125,7 @@ chr_10                                      0                         0
 chr_11                                      0                         0   
 chr_12                                      0                         0   
 chr_13                                      0                         0   
-chr_14                                      2                         0   
+chr_14                                      0                         0   
 chr_15                                      0                         0   
 chr_16                                      0                         0   
 chr_17                                      0                         0   
@@ -134,10 +134,10 @@ chr_19                                      0                         0
 chr_20                                      0                         0   
 chr_21                                      0                         0   
 chr_22                                      0                         0   
-chr_y                                       1                         0   
+chr_y                                       0                         0   
 chr_18_p11_deletion                         8                         0   
 chr_18_q10_isochromosome                    0                         3   
-chr_9_inversion                             0                         1   
+chr_9_inversion                             0                         0   
 chr_5_p14_deletion                          0                         0   
 chr_x_isochromosome                         0                         0   
 chr_x_p22_cnv                               0                         0   
@@ -145,14 +145,14 @@ chr_x_q21_cnv                               0                         0
 chr_x_q22_deletion                          0                         0   
 
                           chr_9_inversion  chr_5_p14_deletion  \
-chr_x                                   0                   0   
+chr_x                                   1                   0   
 chr_01                                  0                   0   
 chr_02                                  0                   0   
 chr_03                                  0                   0   
 chr_04                                  0                   0   
-chr_05                                  0                   1   
+chr_05                                  0                   2   
 chr_06                                  0                   0   
-chr_07                                  1                   0   
+chr_07                                  0                   0   
 chr_08                                  0                   0   
 chr_09                                  1                   0   
 chr_10                                  0                   0   
@@ -170,16 +170,16 @@ chr_21                                  0                   0
 chr_22                                  0                   0   
 chr_y                                   0                   0   
 chr_18_p11_deletion                     0                   0   
-chr_18_q10_isochromosome                1                   0   
-chr_9_inversion                        15                   0   
-chr_5_p14_deletion                      0                   5   
+chr_18_q10_isochromosome                0                   0   
+chr_9_inversion                        16                   0   
+chr_5_p14_deletion                      0                   9   
 chr_x_isochromosome                     0                   0   
 chr_x_p22_cnv                           0                   0   
 chr_x_q21_cnv                           0                   0   
 chr_x_q22_deletion                      1                   0   
 
                           chr_x_isochromosome  chr_x_p22_cnv  chr_x_q21_cnv  \
-chr_x                                       0              1              0   
+chr_x                                       0              0              0   
 chr_01                                      0              0              0   
 chr_02                                      0              0              0   
 chr_03                                      0              0              0   
@@ -188,7 +188,7 @@ chr_05                                      0              0              0
 chr_06                                      0              0              0   
 chr_07                                      0              0              0   
 chr_08                                      0              0              0   
-chr_09                                      0              2              0   
+chr_09                                      0              0              0   
 chr_10                                      0              0              0   
 chr_11                                      0              0              0   
 chr_12                                      0              0              0   
@@ -205,10 +205,10 @@ chr_22                                      0              0              0
 chr_y                                       0              0              0   
 chr_18_p11_deletion                         0              0              0   
 chr_18_q10_isochromosome                    0              0              0   
-chr_9_inversion                             0              0              0   
+chr_9_inversion                             0              0              1   
 chr_5_p14_deletion                          0              0              0   
-chr_x_isochromosome                         6              0              0   
-chr_x_p22_cnv                               0              1              0   
+chr_x_isochromosome                         8              0              0   
+chr_x_p22_cnv                               0              2              0   
 chr_x_q21_cnv                               0              0              6   
 chr_x_q22_deletion                          0              0              0   
 
@@ -224,7 +224,7 @@ chr_07                                     0
 chr_08                                     0  
 chr_09                                     0  
 chr_10                                     0  
-chr_11                                     0  
+chr_11                                     1  
 chr_12                                     0  
 chr_13                                     0  
 chr_14                                     0  
@@ -239,11 +239,11 @@ chr_22                                     0
 chr_y                                      0  
 chr_18_p11_deletion                        0  
 chr_18_q10_isochromosome                   0  
-chr_9_inversion                            1  
+chr_9_inversion                            0  
 chr_5_p14_deletion                         0  
 chr_x_isochromosome                        0  
 chr_x_p22_cnv                              0  
-chr_x_q21_cnv                              1  
+chr_x_q21_cnv                              0  
 chr_x_q22_deletion                         3  
 
 [32 rows x 32 columns].
