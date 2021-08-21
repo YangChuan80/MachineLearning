@@ -1,0 +1,20 @@
+Accuracy: 0.9166666865348816
+
+AUC: 0.9753086419753086.
+
+Performance Report: 
+                     precision    recall  f1-score   support
+
+              chr_x       0.90      1.00      0.95        27
+chr_x_isochromosome       1.00      0.67      0.80         9
+
+          micro avg       0.92      0.92      0.92        36
+          macro avg       0.95      0.83      0.87        36
+       weighted avg       0.92      0.92      0.91        36
+
+
+Confusion Matrix: 
+                     chr_x  chr_x_isochromosome
+chr_x                   27                    0
+chr_x_isochromosome      3                    6.
+
