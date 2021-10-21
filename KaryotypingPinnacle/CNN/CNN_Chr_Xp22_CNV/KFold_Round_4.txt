@@ -196,21 +196,20 @@ Test:
 chr_x_p22_cnv
 Train: 
       191128-del(X)(p22)-10R.bmp
-      191128-del(X)(p22)-11R.bmp
       191128-del(X)(p22)-12R.bmp
       191128-del(X)(p22)-13R.bmp
       191128-del(X)(p22)-14R.bmp
       191128-del(X)(p22)-15R.bmp
-      191128-del(X)(p22)-18R.bmp
       191128-del(X)(p22)-19R.bmp
-      191128-del(X)(p22)-1R.bmp
       191128-del(X)(p22)-20R.bmp
       191128-del(X)(p22)-21R.bmp
+      191128-del(X)(p22)-22R.bmp
       191128-del(X)(p22)-2R.bmp
-      191128-del(X)(p22)-3R.bmp
       191128-del(X)(p22)-4R.bmp
       191128-del(X)(p22)-5R.bmp
+      191128-del(X)(p22)-6R.bmp
       191128-del(X)(p22)-7R.bmp
+      191128-del(X)(p22)-8R.bmp
       191128-del(X)(p22)-9R.bmp
       W23060-1~A.0003.K.jpg.X_p22cnv_deletion_cnv.bmp
       W23060-1~A.0005.K.jpg.X_p22cnv_deletion.bmp
@@ -225,11 +224,10 @@ Train:
       W23060-1~A.0040.K.jpg.X_p22cnv_deletion.bmp
       W23060-1~A.0042.K.jpg.X_p22cnv_deletion_cnv.bmp
       W23060-1~A.0046.K.jpg.X_p22cnv_deletion_cnv.bmp
-      W23060-CW190327.jpg.X_p22cnv_deletion_cnv.bmp
 Test: 
+      191128-del(X)(p22)-11R.bmp
       191128-del(X)(p22)-16R.bmp
-      191128-del(X)(p22)-17R.bmp
-      191128-del(X)(p22)-22R.bmp
-      191128-del(X)(p22)-6R.bmp
-      191128-del(X)(p22)-8R.bmp
+      191128-del(X)(p22)-18R.bmp
+      191128-del(X)(p22)-3R.bmp
+      W23060-CW190327.jpg.X_p22cnv_deletion_cnv.bmp
 
