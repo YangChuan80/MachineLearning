@@ -4,7 +4,6 @@ chr_01
 Train: 
       w21000~A.0001.K.jpg.1L.bmp
       w21001~A.0008.K.1L.bmp
-      w21001~A.0008.K.1R.bmp
       w21002~A.0024.K.jpg.1L.bmp
       w21002~A.0024.K.jpg.1R.bmp
       w21008~A.0008.K.jpg.1L.bmp
@@ -26,7 +25,6 @@ Train:
       W21559~A.0005.1L.bmp
       W21559~A.0005.1R.bmp
       W21563~A.0006.K.1R.bmp
-      W21570~A.0001.K.jpg.1L.bmp
       W21570~A.0001.K.jpg.1R.bmp
       W21576~A.0010.K.jpg.1L.bmp
       W21576~A.0010.K.jpg.1R.bmp
@@ -42,13 +40,11 @@ Train:
       W21902~A.0010.K.jpg.1L.bmp
       W21905~A.0007.K.jpg.1L.bmp
       W21905~A.0007.K.jpg.1R.bmp
-      W21906~A.0011.K.jpg.1L.bmp
       W21906~A.0011.K.jpg.1R.bmp
       w22038~A.0017.K.jpg.1L.bmp
       w22038~A.0017.K.jpg.1R.bmp
       w22292~A.0027.K.jpg.1L.bmp
       w22292~A.0027.K.jpg.1R.bmp
-      W22451~A.0011.K.jpg.1L.bmp
       W22455~A.0002.K.jpg.1R.bmp
       W22666-1.0002.K.jpg.1L.bmp
       W22666-1.0002.K.jpg.1R.bmp
@@ -65,13 +61,17 @@ Train:
       W23084~A.0003.K.jp.1L.bmp
       W23084~A.0003.K.jp.1R.bmp
 Test: 
+      w21001~A.0008.K.1R.bmp
       W21012~A.0019.K.1R.bmp
       W21486~A.0020.K.jpg.1L.bmp
       W21563~A.0006.K.jpg.bmp
+      W21570~A.0001.K.jpg.1L.bmp
       W21587~A.0010.K.jpg.1L.bmp
       W21587~A.0010.K.jpg.1R.bmp
       W21890~A.0005.K.jpg.1R.bmp
       W21902~A.0010.K.jpg.1R.bmp
+      W21906~A.0011.K.jpg.1L.bmp
+      W22451~A.0011.K.jpg.1L.bmp
       W22451~A.0011.K.jpg.1R.bmp
       W22455~A.0002.K.jpg.1L.bmp
       W22670~A.0006.K.jpg.1R.bmp
@@ -81,7 +81,6 @@ chr_02
 Train: 
       w21000~A.0001.K.jpg.1R.bmp
       w21000~A.0001.K.jpg.2L.bmp
-      w21000~A.0001.K.jpg.2R.bmp
       w21001~A.0008.K.2L.bmp
       w21001~A.0008.K.2R.bmp
       w21002~A.0024.K.jpg.2L.bmp
@@ -111,10 +110,8 @@ Train:
       W21587~A.0010.K.jpg.2R.bmp
       W21588~A.0001.K.jpg.2L.bmp
       W21588~A.0001.K.jpg.2R.bmp
-      W21766~A.0025.K.jpg.2L.bmp
       W21890~A.0005.K.jpg.2L.bmp
       W21890~A.0005.K.jpg.2R.bmp
-      W21894~A.0009.K.jpg.2L.bmp
       W21894~A.0009.K.jpg.2R.bmp
       W21902~A.0010.K.jpg.2L.bmp
       W21902~A.0010.K.jpg.2R.bmp
@@ -126,7 +123,6 @@ Train:
       w22292~A.0027.K.jpg.2R.bmp
       W22451~A.0011.K.jpg.2L.bmp
       W22451~A.0011.K.jpg.2R.bmp
-      W22455~A.0002.K.jpg.2L.bmp
       W22666-1.0002.K.jpg.2L.bmp
       W22666-1.0002.K.jpg.2R.bmp
       W22670~A.0006.K.jpg.2L.bmp
@@ -140,12 +136,16 @@ Train:
       W23084~A.0003.K.jp.2L.bmp
       W23084~A.0003.K.jp.2R.bmp
 Test: 
+      w21000~A.0001.K.jpg.2R.bmp
       W21570~A.0001.K.jpg.2R.bmp
       W21576~A.0010.K.jpg.2L.bmp
       W21587~A.0010.K.jpg.2L.bmp
+      W21766~A.0025.K.jpg.2L.bmp
       W21766~A.0025.K.jpg.2R.bmp
+      W21894~A.0009.K.jpg.2L.bmp
       w22038~A.0017.K.jpg.2R.bmp
       w22292~A.0027.K.jpg.2L.bmp
+      W22455~A.0002.K.jpg.2L.bmp
       W22455~A.0002.K.jpg.2R.bmp
       W22672~A.0004.K.jpg.2R.bmp
       W23075-1~A.0017.K.jpg.2R.bmp
@@ -155,7 +155,6 @@ chr_03
 Train: 
       w21000~A.0001.K.jpg.3L.bmp
       w21000~A.0001.K.jpg.3R.bmp
-      w21001~A.0008.K.03L.bmp
       w21001~A.0008.K.03R.bmp
       w21002~A.0024.K.jpg.3L.bmp
       w21002~A.0024.K.jpg.3R.bmp
@@ -185,10 +184,8 @@ Train:
       W21588~A.0001.K.jpg.3L.bmp
       W21588~A.0001.K.jpg.3R.bmp
       W21766~A.0025.K.jpg.3L.bmp
-      W21766~A.0025.K.jpg.3R.bmp
       W21890~A.0005.K.jpg.3R.bmp
       W21894~A.0009.K.jpg.3L.bmp
-      W21894~A.0009.K.jpg.3R.bmp
       W21902~A.0010.K.jpg.3L.bmp
       W21902~A.0010.K.jpg.3R.bmp
       W21905~A.0007.K.jpg.3L.bmp
@@ -200,7 +197,6 @@ Train:
       W22451~A.0011.K.jpg.3L.bmp
       W22451~A.0011.K.jpg.3R.bmp
       W22455~A.0002.K.jpg.3L.bmp
-      W22455~A.0002.K.jpg.3R.bmp
       W22666-1.0002.K.jpg.3R.bmp
       W22670~A.0006.K.jpg.3L.bmp
       W22670~A.0006.K.jpg.3R.bmp
@@ -214,12 +210,16 @@ Train:
       W23084~A.0003.K.jp.3L.bmp
       W23084~A.0003.K.jp.3R.bmp
 Test: 
+      w21001~A.0008.K.03L.bmp
       W21576~A.0010.K.jpg.3L.bmp
       W21576~A.0010.K.jpg.3R.bmp
       W21587~A.0010.K.jpg.3R.bmp
+      W21766~A.0025.K.jpg.3R.bmp
       W21890~A.0005.K.jpg.3L.bmp
+      W21894~A.0009.K.jpg.3R.bmp
       w22292~A.0027.K.jpg.3L.bmp
       w22292~A.0027.K.jpg.3R.bmp
+      W22455~A.0002.K.jpg.3R.bmp
       W22666-1.0002.K.jpg.3L.bmp
       w22881~A.0017.K.jpg.3L.bmp
       W23075-1~A.0017.K.jpg.3R.bmp
@@ -229,7 +229,6 @@ chr_04
 Train: 
       w21000~A.0001.K.jpg.4L.bmp
       w21000~A.0001.K.jpg.4R.bmp
-      w21001~A.0008.K.jpg.4L.bmp
       w21001~A.0008.K.jpg.4R.bmp
       w21002~A.0024.K.jpg.4L.bmp
       w21002~A.0024.K.jpg.4R.bmp
@@ -259,10 +258,8 @@ Train:
       W21588~A.0001.K.jpg.4L.bmp
       W21588~A.0001.K.jpg.4R.bmp
       W21766~A.0025.K.jpg.4L.bmp
-      W21766~A.0025.K.jpg.4R.bmp
       W21890~A.0005.K.jpg.4R.bmp
       W21894~A.0009.K.jpg.4L.bmp
-      W21894~A.0009.K.jpg.4R.bmp
       W21902~A.0010.K.jpg.4L.bmp
       W21902~A.0010.K.jpg.4R.bmp
       W21905~A.0007.K.jpg.4L.bmp
@@ -274,7 +271,6 @@ Train:
       W22451~A.0011.K.jpg.4L.bmp
       W22451~A.0011.K.jpg.4R.bmp
       W22455~A.0002.K.jpg.4L.bmp
-      W22455~A.0002.K.jpg.4R.bmp
       W22666-1.0002.K.jpg.4R.bmp
       W22670~A.0006.K.jpg.4L.bmp
       W22670~A.0006.K.jpg.4R.bmp
@@ -288,12 +284,16 @@ Train:
       W23084~A.0003.K.jp.4L.bmp
       W23084~A.0003.K.jp.4R.bmp
 Test: 
+      w21001~A.0008.K.jpg.4L.bmp
       W21576~A.0010.K.jpg.4L.bmp
       W21576~A.0010.K.jpg.4R.bmp
       W21587~A.0010.K.jpg.4R.bmp
+      W21766~A.0025.K.jpg.4R.bmp
       W21890~A.0005.K.jpg.4L.bmp
+      W21894~A.0009.K.jpg.4R.bmp
       w22292~A.0027.K.jpg.4L.bmp
       w22292~A.0027.K.jpg.4R.bmp
+      W22455~A.0002.K.jpg.4R.bmp
       W22666-1.0002.K.jpg.4L.bmp
       w22881~A.0017.K.jpg.4L.bmp
       W23075-1~A.0017.K.jpg.4R.bmp
@@ -324,14 +324,12 @@ Train:
       173550-del(5)(p14)-32L.bmp
       173550-del(5)(p14)-33L.bmp
       173550-del(5)(p14)-34L.bmp
-      173550-del(5)(p14)-35L.bmp
       173550-del(5)(p14)-5L.bmp
       173550-del(5)(p14)-7L.bmp
       173550-del(5)(p14)-8L.bmp
       181558-11.jpg.5L.bmp
       181558-12.jpg.5L.bmp
       181558-14.jpg.5L.bmp
-      181558-15.jpg.5L.bmp
       181558-16.jpg.5L.bmp
       181558-17.jpg.5L.bmp
       181558-18.jpg.5L.bmp
@@ -355,7 +353,6 @@ Train:
       194161-del(18)(p11)-17L.bmp
       194161-del(18)(p11)-17R.bmp
       194161-del(18)(p11)-18L.bmp
-      194161-del(18)(p11)-18R.bmp
       194161-del(18)(p11)-19L.bmp
       194161-del(18)(p11)-19R.bmp
       194161-del(18)(p11)-1L.bmp
@@ -371,19 +368,15 @@ Train:
       194161-del(18)(p11)-24R.bmp
       194161-del(18)(p11)-25R.bmp
       194161-del(18)(p11)-26L.bmp
-      194161-del(18)(p11)-26R.bmp
       194161-del(18)(p11)-27L.bmp
       194161-del(18)(p11)-27R.bmp
       194161-del(18)(p11)-28L.bmp
       194161-del(18)(p11)-28R.bmp
-      194161-del(18)(p11)-29L.bmp
       194161-del(18)(p11)-29R.bmp
       194161-del(18)(p11)-2L.bmp
       194161-del(18)(p11)-2R.bmp
-      194161-del(18)(p11)-30R.bmp
       194161-del(18)(p11)-3L.bmp
       194161-del(18)(p11)-3R.bmp
-      194161-del(18)(p11)-4R.bmp
       194161-del(18)(p11)-5L.bmp
       194161-del(18)(p11)-5R.bmp
       194161-del(18)(p11)-6L.bmp
@@ -414,13 +407,11 @@ Train:
       201194-del(5)(p14)-8L.bmp
       201194-del(5)(p14)-9L.bmp
       w21000~A.0001.K.jpg.5R.bmp
-      w21000~A.0001.K.jpg5L.bmp
       w21001~A.0008.K.jpg.05L.bmp
       w21001~A.0008.K.jpg.05R.bmp
       w21002~A.0024.K.jpg.5L.bmp
       w21002~A.0024.K.jpg.5R.bmp
       w21008~A.0008.K.jpg.5L.bmp
-      w21008~A.0008.K.jpg.5R.bmp
       W21011~A.0008.K.5L.bmp
       W21011~A.0008.K.5R.bmp
       W21012~A.0019.K.5L.bmp
@@ -449,7 +440,6 @@ Train:
       W21902~A.0010.K.jpg.5L.bmp
       W21905~A.0007.K.jpg.5L.bmp
       W21905~A.0007.K.jpg.5R.bmp
-      W21906~A.0011.K.jpg.5L.bmp
       W21906~A.0011.K.jpg.5R.bmp
       w22038~A.0017.K.jpg.5L.bmp
       w22038~A.0017.K.jpg.5R.bmp
@@ -461,9 +451,7 @@ Train:
       W22666-1.0002.K.jpg.5L.bmp
       W22666-1.0002.K.jpg.5R.bmp
       W22670~A.0006.K.jpg.5L.bmp
-      W22670~A.0006.K.jpg.5R.bmp
       W22672~A.0004.K.jpg.5L.bmp
-      W22672~A.0004.K.jpg.5R.bmp
       w22881~A.0017.K.jpg.5L.bmp
       w22881~A.0017.K.jpg.5R.bmp
       W23070~A.0001.K.jpg.5L.bmp
@@ -478,21 +466,30 @@ Test:
       173550-del(5)(p14)-20L.bmp
       173550-del(5)(p14)-25L.bmp
       173550-del(5)(p14)-27L.bmp
+      173550-del(5)(p14)-35L.bmp
       173550-del(5)(p14)-36L.bmp
       173550-del(5)(p14)-3L.bmp
       173550-del(5)(p14)-6L.bmp
       173550-del(5)(p14)-9L.bmp
       181558-10.jpg.5L.bmp
       181558-13.jpg.5L.bmp
+      181558-15.jpg.5L.bmp
       181558-19.jpg.5L.bmp
       181558-21.jpg.5L.bmp
       194161-del(18)(p11)-13R.bmp
+      194161-del(18)(p11)-18R.bmp
       194161-del(18)(p11)-23L.bmp
+      194161-del(18)(p11)-26R.bmp
+      194161-del(18)(p11)-29L.bmp
       194161-del(18)(p11)-30L.bmp
+      194161-del(18)(p11)-30R.bmp
       194161-del(18)(p11)-4L.bmp
+      194161-del(18)(p11)-4R.bmp
       194161-del(18)(p11)-9R.bmp
       201194-del(5)(p14)-13L.bmp
       201194-del(5)(p14)-18L.bmp
+      w21000~A.0001.K.jpg5L.bmp
+      w21008~A.0008.K.jpg.5R.bmp
       W21022~A.0007.K.jpg.5L.bmp
       W21025~A.0002.K.jpg.5L.bmp
       W21587~A.0008.K.jpg.5L.bmp
@@ -501,14 +498,16 @@ Test:
       W21766~A.0025.K.jpg.5R.bmp
       W21894~A.0009.K.jpg.5L.bmp
       W21902~A.0010.K.jpg.5R.bmp
+      W21906~A.0011.K.jpg.5L.bmp
       W22451~A.0011.K.jpg.5L.bmp
+      W22670~A.0006.K.jpg.5R.bmp
+      W22672~A.0004.K.jpg.5R.bmp
       W23084~A.0003.K.jp.5L.bmp
 
 chr_06
 Train: 
       w21000~A.0001.K.jpg.6L.bmp
       w21000~A.0001.K.jpg.6R.bmp
-      w21001~A.0008.K.jpg.06L.bmp
       w21001~A.0008.K.jpg.06R.bmp
       w21002~A.0024.K.jpg.6L.bmp
       w21002~A.0024.K.jpg.6R.bmp
@@ -538,10 +537,8 @@ Train:
       W21588~A.0001.K.jpg.6L.bmp
       W21588~A.0001.K.jpg.6R.bmp
       W21766~A.0025.K.jpg.6L.bmp
-      W21766~A.0025.K.jpg.6R.bmp
       W21890~A.0005.K.jpg.6R.bmp
       W21894~A.0009.K.jpg.6L.bmp
-      W21894~A.0009.K.jpg.6R.bmp
       W21902~A.0010.K.jpg.6L.bmp
       W21902~A.0010.K.jpg.6R.bmp
       W21905~A.0007.K.jpg.6L.bmp
@@ -553,7 +550,6 @@ Train:
       W22451~A.0011.K.jpg.6L.bmp
       W22451~A.0011.K.jpg.6R.bmp
       W22455~A.0002.K.jpg.6L.bmp
-      W22455~A.0002.K.jpg.6R.bmp
       W22666-1.0002.K.jpg.6R.bmp
       W22670~A.0006.K.jpg.6L.bmp
       W22670~A.0006.K.jpg.6R.bmp
@@ -567,12 +563,16 @@ Train:
       W23084~A.0003.K.jp.6L.bmp
       W23084~A.0003.K.jp.6R.bmp
 Test: 
+      w21001~A.0008.K.jpg.06L.bmp
       W21576~A.0010.K.jpg.6L.bmp
       W21576~A.0010.K.jpg.6R.bmp
       W21587~A.0010.K.jpg.6R.bmp
+      W21766~A.0025.K.jpg.6R.bmp
       W21890~A.0005.K.jpg.6L.bmp
+      W21894~A.0009.K.jpg.6R.bmp
       w22292~A.0027.K.jpg.6L.bmp
       w22292~A.0027.K.jpg.6R.bmp
+      W22455~A.0002.K.jpg.6R.bmp
       W22666-1.0002.K.jpg.6L.bmp
       w22881~A.0017.K.jpg.6L.bmp
       W23075-1~A.0017.K.jpg.6R.bmp
@@ -582,7 +582,6 @@ chr_07
 Train: 
       w21000~A.0001.K.jpg.7L.bmp
       w21000~A.0001.K.jpg.7R.bmp
-      w21001~A.0008.K.jpg.07L.bmp
       w21001~A.0008.K.jpg.07R.bmp
       w21002~A.0024.K.jpg.7L.bmp
       w21002~A.0024.K.jpg.7R.bmp
@@ -612,10 +611,8 @@ Train:
       W21588~A.0001.K.jpg.7L.bmp
       W21588~A.0001.K.jpg.7R.bmp
       W21766~A.0025.K.jpg.7L.bmp
-      W21766~A.0025.K.jpg.7R.bmp
       W21890~A.0005.K.jpg.7R.bmp
       W21894~A.0009.K.jpg.7L.bmp
-      W21894~A.0009.K.jpg.7R.bmp
       W21902~A.0010.K.jpg.7L.bmp
       W21902~A.0010.K.jpg.7R.bmp
       W21905~A.0007.K.jpg.7L.bmp
@@ -627,7 +624,6 @@ Train:
       W22451~A.0011.K.jpg.7L.bmp
       W22451~A.0011.K.jpg.7R.bmp
       W22455~A.0002.K.jpg.7L.bmp
-      W22455~A.0002.K.jpg.7R.bmp
       W22666-1.0002.K.jpg.7R.bmp
       W22670~A.0006.K.jpg.7L.bmp
       W22670~A.0006.K.jpg.7R.bmp
@@ -641,12 +637,16 @@ Train:
       W23084~A.0003.K.jp.7L.bmp
       W23084~A.0003.K.jp.7R.bmp
 Test: 
+      w21001~A.0008.K.jpg.07L.bmp
       W21576~A.0010.K.jpg.7L.bmp
       W21576~A.0010.K.jpg.7R.bmp
       W21587~A.0010.K.jpg.7R.bmp
+      W21766~A.0025.K.jpg.7R.bmp
       W21890~A.0005.K.jpg.7L.bmp
+      W21894~A.0009.K.jpg.7R.bmp
       w22292~A.0027.K.jpg.7L.bmp
       w22292~A.0027.K.jpg.7R.bmp
+      W22455~A.0002.K.jpg.7R.bmp
       W22666-1.0002.K.jpg.7L.bmp
       w22881~A.0017.K.jpg.7L.bmp
       W23075-1~A.0017.K.jpg.7R.bmp
@@ -685,14 +685,11 @@ Train:
       W21587~A.0010.K.jpg.8L.bmp
       W21587~A.0010.K.jpg.8R.bmp
       W21588~A.0001.K.jpg.8L.bmp
-      W21588~A.0001.K.jpg.8R.bmp
       W21766~A.0025.K.jpg.8R.bmp
       W21890~A.0005.K.jpg.8L.bmp
-      W21890~A.0005.K.jpg.8R.bmp
       W21894~A.0009.K.jpg.8L.bmp
       W21894~A.0009.K.jpg.8R.bmp
       W21902~A.0010.K.jpg.8L.bmp
-      W21902~A.0010.K.jpg.8R.bmp
       W21905~A.0007.K.jpg.8L.bmp
       W21905~A.0007.K.jpg.8R.bmp
       W21906~A.0011.K.jpg.8L.bmp
@@ -700,7 +697,6 @@ Train:
       w22292~A.0027.K.jpg.8L.bmp
       W22451~A.0011.K.jpg.8L.bmp
       W22451~A.0011.K.jpg.8R.bmp
-      W22455~A.0002.K.jpg.8L.bmp
       W22666-1.0002.K.jpg.8L.bmp
       W22666-1.0002.K.jpg.8R.bmp
       W22670~A.0006.K.jpg.8L.bmp
@@ -719,9 +715,13 @@ Test:
       W21570~A.0001.K.jpg.8L.bmp
       W21570~A.0001.K.jpg.8R.bmp
       W21587~A.0008.K.jpg.8R.bmp
+      W21588~A.0001.K.jpg.8R.bmp
       W21766~A.0025.K.jpg.8L.bmp
+      W21890~A.0005.K.jpg.8R.bmp
+      W21902~A.0010.K.jpg.8R.bmp
       w22038~A.0017.K.jpg.8L.bmp
       w22038~A.0017.K.jpg.8R.bmp
+      W22455~A.0002.K.jpg.8L.bmp
       W22455~A.0002.K.jpg.8R.bmp
       w22881~A.0017.K.jpg.8L.bmp
       W23075-1~A.0017.K.jpg.8L.bmp
@@ -745,8 +745,6 @@ Train:
       193002-9p12q13_6L.bmp
       193002-9p12q13_7L.bmp
       193002-9p12q13_8L.bmp
-      193002-9p12q13_9L.bmp
-      W07391-9p12q_10L.bmp
       W07391-9p12q_11L.bmp
       W07391-9p12q_12L.bmp
       W07391-9p12q_13L.bmp
@@ -757,7 +755,6 @@ Train:
       W07391-9p12q_19L.bmp
       W07391-9p12q_1L.bmp
       W07391-9p12q_20L.bmp
-      W07391-9p12q_21L.bmp
       W07391-9p12q_22L.bmp
       W07391-9p12q_2L.bmp
       W07391-9p12q_4L.bmp
@@ -810,7 +807,6 @@ Train:
       W21011~A.0008.K.9R.bmp
       W21012~A.0019.K.9L.bmp
       W21012~A.0019.K.9R.bmp
-      W21014~A.0005.K.9L.bmp
       W21014~A.0005.K.9R.bmp
       W21022~A.0007.K.jpg.9L.bmp
       W21022~A.0007.K.jpg.9R.bmp
@@ -827,7 +823,6 @@ Train:
       W21587~A.0010.K.jpg.9R.bmp
       W21588~A.0001.K.jpg.9L.bmp
       W21766~A.0025.K.jpg.9L.bmp
-      W21890~A.0005.K.jpg.9R.bmp
       W21894~A.0009.K.jpg.9L.bmp
       W21894~A.0009.K.jpg.9R.bmp
       W21902~A.0010.K.jpg.9L.bmp
@@ -837,9 +832,7 @@ Train:
       W21906~A.0011.K.jpg.9R.bmp
       w22038~A.0017.K.jpg.9R.bmp
       w22292~A.0027.K.jpg.9L.bmp
-      w22292~A.0027.K.jpg.9R.bmp
       W22451~A.0011.K.jpg.9L.bmp
-      W22451~A.0011.K.jpg.9R.bmp
       W22455~A.0002.K.jpg.9L.bmp
       W22455~A.0002.K.jpg.9R.bmp
       W22650-9p12q13_10L.bmp
@@ -865,19 +858,15 @@ Train:
       W22650-9p12q13_7L.bmp
       W22650-9p12q13_8L.bmp
       W22650-9p12q13_9L.bmp
-      W22666-1.0002.K.jpg.9L.bmp
       W22666-1.0002.K.jpg.9R.bmp
       W22670~A.0006.K.jpg.9L.bmp
       W22670~A.0006.K.jpg.9R.bmp
-      W22672~A.0004.K.jpg.9L.bmp
       W22672~A.0004.K.jpg.9R.bmp
       w22881~A.0017.K.jpg.9L.bmp
       w22881~A.0017.K.jpg.9R.bmp
-      W23070~A.0001.K.jpg.9L.bmp
       W23070~A.0001.K.jpg.9R.bmp
       W23075-1~A.0017.K.jpg.9L.bmp
       W23075-1~A.0017.K.jpg.9R.bmp
-      W23082.0026.K.jpg.9L.bmp
       W23082.0026.K.jpg.9R.bmp
       W23084~A.0003.K.jp.9R.bmp
       W23713~A.0006.K_9p12q13_10L.bmp
@@ -889,10 +878,8 @@ Train:
       W23713~A.0006.K_9p12q13_19L.bmp
       W23713~A.0006.K_9p12q13_1L.bmp
       W23713~A.0006.K_9p12q13_20L.bmp
-      W23713~A.0006.K_9p12q13_21L.bmp
       W23713~A.0006.K_9p12q13_22L.bmp
       W23713~A.0006.K_9p12q13_24L.bmp
-      W23713~A.0006.K_9p12q13_2L.bmp
       W23713~A.0006.K_9p12q13_31L.bmp
       W23713~A.0006.K_9p12q13_3L.bmp
       W23713~A.0006.K_9p12q13_41L.bmp
@@ -929,7 +916,6 @@ Train:
       W27694-20.jpg.9L.bmp
       W27694-21.jpg.9L.bmp
       W27694-22.bmp.9L.bmp
-      W27694-2_.jpg.9L.bmp
       W27694-3.jpg.9L.bmp
       W27694-6.jpg.9L.bmp
       W27694-7.jpg.9L.bmp
@@ -954,7 +940,10 @@ Train:
 Test: 
       193002-9p12q13_15L.bmp
       193002-9p12q13_3L.bmp
+      193002-9p12q13_9L.bmp
+      W07391-9p12q_10L.bmp
       W07391-9p12q_18L.bmp
+      W07391-9p12q_21L.bmp
       W07391-9p12q_3L.bmp
       W07391-9p12q_7L.bmp
       W07391-9p12q_9L.bmp
@@ -966,22 +955,33 @@ Test:
       W18776-9p12q13_5L.bmp
       w21001~A.0008.K.jpg.09L.bmp
       w21008~A.0008.K.jpg.9R.bmp
+      W21014~A.0005.K.9L.bmp
       W21486~A.0020.K.bmp.9R.bmp
       W21570~A.0001.K.jpg.9R.bmp
       W21576~A.0010.K.jpg.9L.bmp
       W21588~A.0001.K.jpg.9R.bmp
       W21766~A.0025.K.jpg.9R.bmp
       W21890~A.0005.K.jpg.9L.bmp
+      W21890~A.0005.K.jpg.9R.bmp
       W21905~A.0007.K.jpg.9L.bmp
       w22038~A.0017.K.jpg.9L.bmp
+      w22292~A.0027.K.jpg.9R.bmp
+      W22451~A.0011.K.jpg.9R.bmp
       W22650-9p12q13_17L.bmp
+      W22666-1.0002.K.jpg.9L.bmp
+      W22672~A.0004.K.jpg.9L.bmp
+      W23070~A.0001.K.jpg.9L.bmp
+      W23082.0026.K.jpg.9L.bmp
       W23084~A.0003.K.jp.9L.bmp
+      W23713~A.0006.K_9p12q13_21L.bmp
       W23713~A.0006.K_9p12q13_23L.bmp
+      W23713~A.0006.K_9p12q13_2L.bmp
       W23713~A.0006.K_9p12q13_33L.bmp
       W23713~A.0006.K_9p12q13_49L.bmp
       W23713~A.0006.K_9p12q13_4L.bmp
       W27694-12.jpg.9L.bmp
       W27694-16.jpg.9L.bmp
+      W27694-2_.jpg.9L.bmp
       W27694-4.jpg.9L.bmp
       W27694-5.jpg.9L.bmp
       W27715-9p12q_17L.bmp
@@ -995,7 +995,6 @@ chr_10
 Train: 
       w21000~A.0001.K.jpg.10L.bmp
       w21000~A.0001.K.jpg.10R.bmp
-      w21001~A.0008.K.jpg.10L.bmp
       w21001~A.0008.K.jpg.10R.bmp
       w21002~A.0024.K.jpg.10L.bmp
       w21002~A.0024.K.jpg.10R.bmp
@@ -1025,10 +1024,8 @@ Train:
       W21588~A.0001.K.jpg.10L.bmp
       W21588~A.0001.K.jpg.10R.bmp
       W21766~A.0025.K.jpg.10L.bmp
-      W21766~A.0025.K.jpg.10R.bmp
       W21890~A.0005.K.jpg.10R.bmp
       W21894~A.0009.K.jpg.10L.bmp
-      W21894~A.0009.K.jpg.10R.bmp
       W21902~A.0010.K.jpg.10L.bmp
       W21902~A.0010.K.jpg.10R.bmp
       W21905~A.0007.K.jpg.10L.bmp
@@ -1040,7 +1037,6 @@ Train:
       W22451~A.0011.K.jpg.10L.bmp
       W22451~A.0011.K.jpg.10R.bmp
       W22455~A.0002.K.jpg.10L.bmp
-      W22455~A.0002.K.jpg.10R.bmp
       W22666-1.0002.K.jpg.10R.bmp
       W22670~A.0006.K.jpg.10L.bmp
       W22670~A.0006.K.jpg.10R.bmp
@@ -1054,12 +1050,16 @@ Train:
       W23084~A.0003.K.jp.10L.bmp
       W23084~A.0003.K.jp.10R.bmp
 Test: 
+      w21001~A.0008.K.jpg.10L.bmp
       W21576~A.0010.K.jpg.10L.bmp
       W21576~A.0010.K.jpg.10R.bmp
       W21587~A.0010.K.jpg.10R.bmp
+      W21766~A.0025.K.jpg.10R.bmp
       W21890~A.0005.K.jpg.10L.bmp
+      W21894~A.0009.K.jpg.10R.bmp
       w22292~A.0027.K.jpg.10L.bmp
       w22292~A.0027.K.jpg.10R.bmp
+      W22455~A.0002.K.jpg.10R.bmp
       W22666-1.0002.K.jpg.10L.bmp
       w22881~A.0017.K.jpg.10L.bmp
       W23075-1~A.0017.K.jpg.10R.bmp
@@ -1069,7 +1069,6 @@ chr_11
 Train: 
       w21000~A.0001.K.jpg.11.bmp
       w21000~A.0001.K.jpg.11R.bmp
-      w21001~A.0008.K.jpg.11L.bmp
       w21001~A.0008.K.jpg.11R.bmp
       w21002~A.0024.K.jpg.11L.bmp
       w21002~A.0024.K.jpg.11R.bmp
@@ -1099,10 +1098,8 @@ Train:
       W21588~A.0001.K.jpg.11L.bmp
       W21588~A.0001.K.jpg.11R.bmp
       W21766~A.0025.K.jpg.11L.bmp
-      W21766~A.0025.K.jpg.11R.bmp
       W21890~A.0005.K.jpg.11R.bmp
       W21894~A.0009.K.jpg.11L.bmp
-      W21894~A.0009.K.jpg.11R.bmp
       W21902~A.0010.K.jpg.11L.bmp
       W21902~A.0010.K.jpg.11R.bmp
       W21905~A.0007.K.jpg.11L.bmp
@@ -1114,7 +1111,6 @@ Train:
       W22451~A.0011.K.jpg.11L.bmp
       W22451~A.0011.K.jpg.11R.bmp
       W22455~A.0002.K.jpg.11L.bmp
-      W22455~A.0002.K.jpg.11R.bmp
       W22666-1.0002.K.jpg.11R.bmp
       W22670~A.0006.K.jpg.11L.bmp
       W22670~A.0006.K.jpg.11R.bmp
@@ -1128,12 +1124,16 @@ Train:
       W23084~A.0003.K.jp.11L.bmp
       W23084~A.0003.K.jp.11R.bmp
 Test: 
+      w21001~A.0008.K.jpg.11L.bmp
       W21576~A.0010.K.jpg.11L.bmp
       W21576~A.0010.K.jpg.11R.bmp
       W21587~A.0010.K.jpg.11R.bmp
+      W21766~A.0025.K.jpg.11R.bmp
       W21890~A.0005.K.jpg.11L.bmp
+      W21894~A.0009.K.jpg.11R.bmp
       w22292~A.0027.K.jpg.11L.bmp
       w22292~A.0027.K.jpg.11R.bmp
+      W22455~A.0002.K.jpg.11R.bmp
       W22666-1.0002.K.jpg.11L.bmp
       w22881~A.0017.K.jpg.11L.bmp
       W23075-1~A.0017.K.jpg.11R.bmp
@@ -1172,9 +1172,7 @@ Train:
       W21587~A.0010.K.jpg.12R.bmp
       W21588~A.0001.K.jpg.12R.bmp
       W21766~A.0025.K.jpg.12L.bmp
-      W21766~A.0025.K.jpg.12R.bmp
       W21894~A.0009.K.jpg.12L.bmp
-      W21894~A.0009.K.jpg.12R.bmp
       W21902~A.0010.K.jpg.12L.bmp
       W21902~A.0010.K.jpg.12R.bmp
       W21905~A.0007.K.jpg.12L.bmp
@@ -1183,11 +1181,9 @@ Train:
       W21906~A.0011.K.jpg.12R.bmp
       w22038~A.0017.K.jpg.12L.bmp
       w22038~A.0017.K.jpg.12R.bmp
-      w22292~A.0027.K.jpg.12R.bmp
       W22451~A.0011.K.jpg.12R.bmp
       W22455~A.0002.K.jpg.12L.bmp
       W22455~A.0002.K.jpg.12R.bmp
-      W22666-1.0002.K.jpg.12L.bmp
       W22666-1.0002.K.jpg.12R.bmp
       W22670~A.0006.K.jpg.12L.bmp
       W22672~A.0004.K.jpg.12L.bmp
@@ -1204,10 +1200,14 @@ Test:
       w21001~A.0008.K.jpg.12L.bmp
       W21576~A.0010.K.jpg.12R.bmp
       W21588~A.0001.K.jpg.12L.bmp
+      W21766~A.0025.K.jpg.12R.bmp
       W21890~A.0005.K.jpg.12L.bmp
       W21890~A.0005.K.jpg.12R.bmp
+      W21894~A.0009.K.jpg.12R.bmp
       w22292~A.0027.K.jpg.12L.bmp
+      w22292~A.0027.K.jpg.12R.bmp
       W22451~A.0011.K.jpg.12L.bmp
+      W22666-1.0002.K.jpg.12L.bmp
       W22670~A.0006.K.jpg.12R.bmp
       W23075-1~A.0017.K.jpg.12L.bmp
       W23082.0026.K.jpg.12L.bmp
@@ -1216,7 +1216,6 @@ chr_13
 Train: 
       w21000~A.0001.K.jpg.13L.bmp
       w21000~A.0001.K.jpg.13R.bmp
-      w21001~A.0008.K.jpg.13L.bmp
       w21001~A.0008.K.jpg.13R.bmp
       w21002~A.0024.K.jpg.13L.bmp
       w21002~A.0024.K.jpg.13R.bmp
@@ -1246,10 +1245,8 @@ Train:
       W21588~A.0001.K.jpg.13L.bmp
       W21588~A.0001.K.jpg.13R.bmp
       W21766~A.0025.K.jpg.13L.bmp
-      W21766~A.0025.K.jpg.13R.bmp
       W21890~A.0005.K.jpg.13R.bmp
       W21894~A.0009.K.jpg.13L.bmp
-      W21894~A.0009.K.jpg.13R.bmp
       W21902~A.0010.K.jpg.13L.bmp
       W21902~A.0010.K.jpg.13R.bmp
       W21905~A.0007.K.jpg.13L.bmp
@@ -1261,7 +1258,6 @@ Train:
       W22451~A.0011.K.jpg.13L.bmp
       W22451~A.0011.K.jpg.13R.bmp
       W22455~A.0002.K.jpg.13L.bmp
-      W22455~A.0002.K.jpg.13R.bmp
       W22666-1.0002.K.jpg.13R.bmp
       W22670~A.0006.K.jpg.13L.bmp
       W22670~A.0006.K.jpg.13R.bmp
@@ -1275,12 +1271,16 @@ Train:
       W23084~A.0003.K.jp.13L.bmp
       W23084~A.0003.K.jp.13R.bmp
 Test: 
+      w21001~A.0008.K.jpg.13L.bmp
       W21576~A.0010.K.jpg.13L.bmp
       W21576~A.0010.K.jpg.13R.bmp
       W21587~A.0010.K.jpg.13R.bmp
+      W21766~A.0025.K.jpg.13R.bmp
       W21890~A.0005.K.jpg.13L.bmp
+      W21894~A.0009.K.jpg.13R.bmp
       w22292~A.0027.K.jpg.13L.bmp
       w22292~A.0027.K.jpg.13R.bmp
+      W22455~A.0002.K.jpg.13R.bmp
       W22666-1.0002.K.jpg.13L.bmp
       w22881~A.0017.K.jpg.13L.bmp
       W23075-1~A.0017.K.jpg.13R.bmp
@@ -1290,7 +1290,6 @@ chr_14
 Train: 
       w21000~A.0001.K.jpg.14L.bmp
       w21000~A.0001.K.jpg.14R.bmp
-      w21001~A.0008.K.jpg.14L.bmp
       w21001~A.0008.K.jpg.14R.bmp
       w21002~A.0024.K.jpg.14L.bmp
       w21002~A.0024.K.jpg.14R.bmp
@@ -1320,10 +1319,8 @@ Train:
       W21588~A.0001.K.jpg.14L.bmp
       W21588~A.0001.K.jpg.14R.bmp
       W21766~A.0025.K.jpg.14L.bmp
-      W21766~A.0025.K.jpg.14R.bmp
       W21890~A.0005.K.jpg.14R.bmp
       W21894~A.0009.K.jpg.14L.bmp
-      W21894~A.0009.K.jpg.14R.bmp
       W21902~A.0010.K.jpg.14L.bmp
       W21902~A.0010.K.jpg.14R.bmp
       W21905~A.0007.K.jpg.14L.bmp
@@ -1335,7 +1332,6 @@ Train:
       W22451~A.0011.K.jpg.14L.bmp
       W22451~A.0011.K.jpg.14R.bmp
       W22455~A.0002.K.jpg.14L.bmp
-      W22455~A.0002.K.jpg.14R.bmp
       W22666-1.0002.K.jpg.14R.bmp
       W22670~A.0006.K.jpg.14L.bmp
       W22670~A.0006.K.jpg.14R.bmp
@@ -1349,12 +1345,16 @@ Train:
       W23084~A.0003.K.jp.14L.bmp
       W23084~A.0003.K.jp.14R.bmp
 Test: 
+      w21001~A.0008.K.jpg.14L.bmp
       W21576~A.0010.K.jpg.14L.bmp
       W21576~A.0010.K.jpg.14R.bmp
       W21587~A.0010.K.jpg.14R.bmp
+      W21766~A.0025.K.jpg.14R.bmp
       W21890~A.0005.K.jpg.14L.bmp
+      W21894~A.0009.K.jpg.14R.bmp
       w22292~A.0027.K.jpg.14L.bmp
       w22292~A.0027.K.jpg.14R.bmp
+      W22455~A.0002.K.jpg.14R.bmp
       W22666-1.0002.K.jpg.14L.bmp
       w22881~A.0017.K.jpg.14L.bmp
       W23075-1~A.0017.K.jpg.14R.bmp
@@ -1364,7 +1364,6 @@ chr_15
 Train: 
       w21000~A.0001.K.jpg.15L.bmp
       w21000~A.0001.K.jpg.15R.bmp
-      w21001~A.0008.K.jpg.15L.bmp
       w21001~A.0008.K.jpg.15R.bmp
       w21002~A.0024.K.jpg.15L.bmp
       w21002~A.0024.K.jpg.15R.bmp
@@ -1394,10 +1393,8 @@ Train:
       W21588~A.0001.K.jpg.15L.bmp
       W21588~A.0001.K.jpg.15R.bmp
       W21766~A.0025.K.jpg.15L.bmp
-      W21766~A.0025.K.jpg.15R.bmp
       W21890~A.0005.K.jpg.15R.bmp
       W21894~A.0009.K.jpg.15L.bmp
-      W21894~A.0009.K.jpg.15R.bmp
       W21902~A.0010.K.jpg.15L.bmp
       W21902~A.0010.K.jpg.15R.bmp
       W21905~A.0007.K.jpg.15L.bmp
@@ -1409,7 +1406,6 @@ Train:
       W22451~A.0011.K.jpg.15L.bmp
       W22451~A.0011.K.jpg.15R.bmp
       W22455~A.0002.K.jpg.15L.bmp
-      W22455~A.0002.K.jpg.15R.bmp
       W22666-1.0002.K.jpg.15R.bmp
       W22670~A.0006.K.jpg.15L.bmp
       W22670~A.0006.K.jpg.15R.bmp
@@ -1423,12 +1419,16 @@ Train:
       W23084~A.0003.K.jp.15L.bmp
       W23084~A.0003.K.jp.15R.bmp
 Test: 
+      w21001~A.0008.K.jpg.15L.bmp
       W21576~A.0010.K.jpg.15L.bmp
       W21576~A.0010.K.jpg.15R.bmp
       W21587~A.0010.K.jpg.15R.bmp
+      W21766~A.0025.K.jpg.15R.bmp
       W21890~A.0005.K.jpg.15L.bmp
+      W21894~A.0009.K.jpg.15R.bmp
       w22292~A.0027.K.jpg.15L.bmp
       w22292~A.0027.K.jpg.15R.bmp
+      W22455~A.0002.K.jpg.15R.bmp
       W22666-1.0002.K.jpg.15L.bmp
       w22881~A.0017.K.jpg.15L.bmp
       W23075-1~A.0017.K.jpg.15R.bmp
@@ -1467,9 +1467,7 @@ Train:
       W21587~A.0010.K.jpg.16L.bmp
       W21588~A.0001.K.jpg.16L.bmp
       W21588~A.0001.K.jpg.16R.bmp
-      W21766~A.0025.K.jpg.16L.bmp
       W21890~A.0005.K.jpg.16R.bmp
-      W21894~A.0009.K.jpg.16L.bmp
       W21894~A.0009.K.jpg.16R.bmp
       W21902~A.0010.K.jpg.16L.bmp
       W21902~A.0010.K.jpg.16R.bmp
@@ -1478,11 +1476,9 @@ Train:
       W21906~A.0011.K.jpg.16L.bmp
       W21906~A.0011.K.jpg.16R.bmp
       w22038~A.0017.K.jpg.16L.bmp
-      w22292~A.0027.K.jpg.16L.bmp
       W22451~A.0011.K.jpg.16L.bmp
       W22451~A.0011.K.jpg.16R.bmp
       W22455~A.0002.K.jpg.16L.bmp
-      W22455~A.0002.K.jpg.16R.bmp
       W22666-1.0002.K.jpg.16L.bmp
       W22666-1.0002.K.jpg.16R.bmp
       W22670~A.0006.K.jpg.16R.bmp
@@ -1499,10 +1495,14 @@ Test:
       w21001~A.0008.K.jpg.16L.bmp
       W21576~A.0010.K.jpg.16L.bmp
       W21587~A.0010.K.jpg.16R.bmp
+      W21766~A.0025.K.jpg.16L.bmp
       W21766~A.0025.K.jpg.16R.bmp
       W21890~A.0005.K.jpg.16L.bmp
+      W21894~A.0009.K.jpg.16L.bmp
       w22038~A.0017.K.jpg.16R.bmp
+      w22292~A.0027.K.jpg.16L.bmp
       w22292~A.0027.K.jpg.16R.bmp
+      W22455~A.0002.K.jpg.16R.bmp
       W22670~A.0006.K.jpg.16L.bmp
       W23075-1~A.0017.K.jpg.16L.bmp
       W23082.0026.K.jpg.16L.bmp
@@ -1511,7 +1511,6 @@ chr_17
 Train: 
       w21000~A.0001.K.jpg.17L.bmp
       w21000~A.0001.K.jpg.17R.bmp
-      w21001~A.0008.K.jpg.17L.bmp
       w21001~A.0008.K.jpg.17R.bmp
       w21002~A.0024.K.jpg.17L.bmp
       w21002~A.0024.K.jpg.17R.bmp
@@ -1541,10 +1540,8 @@ Train:
       W21588~A.0001.K.jpg.17L.bmp
       W21588~A.0001.K.jpg.17R.bmp
       W21766~A.0025.K.jpg.17L.bmp
-      W21766~A.0025.K.jpg.17R.bmp
       W21890~A.0005.K.jpg.17R.bmp
       W21894~A.0009.K.jpg.17L.bmp
-      W21894~A.0009.K.jpg.17R.bmp
       W21902~A.0010.K.jpg.17L.bmp
       W21902~A.0010.K.jpg.17R.bmp
       W21905~A.0007.K.jpg.17L.bmp
@@ -1556,7 +1553,6 @@ Train:
       W22451~A.0011.K.jpg.17L.bmp
       W22451~A.0011.K.jpg.17R.bmp
       W22455~A.0002.K.jpg.17L.bmp
-      W22455~A.0002.K.jpg.17R.bmp
       W22666-1.0002.K.jpg.17R.bmp
       W22670~A.0006.K.jpg.17L.bmp
       W22670~A.0006.K.jpg.17R.bmp
@@ -1570,12 +1566,16 @@ Train:
       W23084~A.0003.K.jp.17L.bmp
       W23084~A.0003.K.jp.17R.bmp
 Test: 
+      w21001~A.0008.K.jpg.17L.bmp
       W21576~A.0010.K.jpg.17L.bmp
       W21576~A.0010.K.jpg.17R.bmp
       W21587~A.0010.K.jpg.17R.bmp
+      W21766~A.0025.K.jpg.17R.bmp
       W21890~A.0005.K.jpg.17L.bmp
+      W21894~A.0009.K.jpg.17R.bmp
       w22292~A.0027.K.jpg.17L.bmp
       w22292~A.0027.K.jpg.17R.bmp
+      W22455~A.0002.K.jpg.17R.bmp
       W22666-1.0002.K.jpg.17L.bmp
       w22881~A.0017.K.jpg.17L.bmp
       W23075-1~A.0017.K.jpg.17R.bmp
@@ -1587,7 +1587,6 @@ Train:
       181228-i(18)(q10)+18-11L.bmp
       181228-i(18)(q10)+18-12L.bmp
       181228-i(18)(q10)+18-13L.bmp
-      181228-i(18)(q10)+18-1L.bmp
       181228-i(18)(q10)+18-2L.bmp
       181228-i(18)(q10)+18-3L.bmp
       181228-i(18)(q10)+18-4L.bmp
@@ -1596,7 +1595,6 @@ Train:
       181228-i(18)(q10)+18-9L.bmp
       183873-del(18)(p11)-10L.bmp
       183873-del(18)(p11)-12L.bmp
-      183873-del(18)(p11)-13L.bmp
       183873-del(18)(p11)-14L.bmp
       183873-del(18)(p11)-15L.bmp
       183873-del(18)(p11)-17L.bmp
@@ -1608,7 +1606,6 @@ Train:
       183873-del(18)(p11)-22L.bmp
       183873-del(18)(p11)-23L.bmp
       183873-del(18)(p11)-24L.bmp
-      183873-del(18)(p11)-25L.bmp
       183873-del(18)(p11)-2L.bmp
       183873-del(18)(p11)-4L.bmp
       183873-del(18)(p11)-5L.bmp
@@ -1622,7 +1619,6 @@ Train:
       190325-15.jpg_18L.bmp
       190325-16.jpg_18L.bmp
       190325-17.jpg_18L.bmp
-      190325-18.jpg_18L.bmp
       190325-19.jpg_18L.bmp
       190325-2.jpg_18L.bmp
       190325-20.jpg.18L.bmp
@@ -1659,7 +1655,6 @@ Train:
       194161-del(18)(p11)-20L.bmp
       194161-del(18)(p11)-21L.bmp
       194161-del(18)(p11)-22L.bmp
-      194161-del(18)(p11)-23L.bmp
       194161-del(18)(p11)-24L.bmp
       194161-del(18)(p11)-25L.bmp
       194161-del(18)(p11)-26L.bmp
@@ -1670,7 +1665,6 @@ Train:
       194161-del(18)(p11)-3L.bmp
       194161-del(18)(p11)-4L.bmp
       194161-del(18)(p11)-5L.bmp
-      194161-del(18)(p11)-6L.bmp
       194161-del(18)(p11)-7L.bmp
       194161-del(18)(p11)-8L.bmp
       w21000~A.0001.K.jpg.18R.bmp
@@ -1709,16 +1703,12 @@ Train:
       W21902~A.0010.K.jpg.18L.bmp
       W21902~A.0010.K.jpg.18R.bmp
       W21905~A.0007.K.jpg.18L.bmp
-      W21905~A.0007.K.jpg.18R.bmp
       W21906~A.0011.K.jpg.18R.bmp
       w22038~A.0017.K.jpg.18L.bmp
       w22038~A.0017.K.jpg.18R.bmp
-      w22292~A.0027.K.jpg.18L.bmp
-      w22292~A.0027.K.jpg.18R.bmp
       W22451~A.0011.K.jpg.18L.bmp
       W22451~A.0011.K.jpg.18R.bmp
       W22455~A.0002.K.jpg.18L.bmp
-      W22455~A.0002.K.jpg.18R.bmp
       W22666-1.0002.K.jpg.18L.bmp
       W22666-1.0002.K.jpg.18R.bmp
       W22670~A.0006.K.jpg.18L.bmp
@@ -1735,20 +1725,26 @@ Train:
       W23084~A.0003.K.jp.18R.bmp
 Test: 
       181228-i(18)(q10)+18-14L.bmp
+      181228-i(18)(q10)+18-1L.bmp
       181228-i(18)(q10)+18-8L.bmp
       183873-del(18)(p11)-11L.bmp
+      183873-del(18)(p11)-13L.bmp
       183873-del(18)(p11)-16L.bmp
+      183873-del(18)(p11)-25L.bmp
       183873-del(18)(p11)-3L.bmp
       183873-del(18)(p11)-7L.bmp
       190325-11.jpg_18L.bmp
       190325-13.jpg_18L.bmp
+      190325-18.jpg_18L.bmp
       190325-3.jpg_18L.bmp
       190325-5.jpg_18L.bmp
       191225-20.jpg_18L.bmp
       191225-7.jpg_18L.bmp
       191225-9.jpg_18L.bmp
       194161-del(18)(p11)-19L.bmp
+      194161-del(18)(p11)-23L.bmp
       194161-del(18)(p11)-27L.bmp
+      194161-del(18)(p11)-6L.bmp
       194161-del(18)(p11)-9L.bmp
       w21000~A.0001.K.jpg.18L.bmp
       w21002~A.0024.K.jpg.18L.bmp
@@ -1757,7 +1753,11 @@ Test:
       W21486~A.0020.K.bmp.18L.bmp
       W21486~A.0020.K.bmp.18R.bmp
       W21587~A.0010.K.jpg.18L.bmp
+      W21905~A.0007.K.jpg.18R.bmp
       W21906~A.0011.K.jpg.18L.bmp
+      w22292~A.0027.K.jpg.18L.bmp
+      w22292~A.0027.K.jpg.18R.bmp
+      W22455~A.0002.K.jpg.18R.bmp
       W22670~A.0006.K.jpg.18R.bmp
       W23075-1~A.0017.K.jpg.18L.bmp
 
@@ -1765,7 +1765,6 @@ chr_19
 Train: 
       w21000~A.0001.K.jpg.19l.bmp
       w21000~A.0001.K.jpg.19R.bmp
-      w21001~A.0008.K.jpg.19L.bmp
       w21001~A.0008.K.jpg.19R.bmp
       w21002~A.0024.K.jpg.19L.bmp
       w21002~A.0024.K.jpg.19R.bmp
@@ -1795,10 +1794,8 @@ Train:
       W21588~A.0001.K.jpg.19L.bmp
       W21588~A.0001.K.jpg.19R.bmp
       W21766~A.0025.K.jpg.19L.bmp
-      W21766~A.0025.K.jpg.19R.bmp
       W21890~A.0005.K.jpg.19R.bmp
       W21894~A.0009.K.jpg.19L.bmp
-      W21894~A.0009.K.jpg.19R.bmp
       W21902~A.0010.K.jpg.19L.bmp
       W21902~A.0010.K.jpg.19R.bmp
       W21905~A.0007.K.jpg.19L.bmp
@@ -1810,7 +1807,6 @@ Train:
       W22451~A.0011.K.jpg.19L.bmp
       W22451~A.0011.K.jpg.19R.bmp
       W22455~A.0002.K.jpg.19L.bmp
-      W22455~A.0002.K.jpg.19R.bmp
       W22666-1.0002.K.jpg.19R.bmp
       W22670~A.0006.K.jpg.19L.bmp
       W22670~A.0006.K.jpg.19R.bmp
@@ -1824,12 +1820,16 @@ Train:
       W23084~A.0003.K.jp.19L.bmp
       W23084~A.0003.K.jp.19R.bmp
 Test: 
+      w21001~A.0008.K.jpg.19L.bmp
       W21576~A.0010.K.jpg.19L.bmp
       W21576~A.0010.K.jpg.19R.bmp
       W21587~A.0010.K.jpg.19R.bmp
+      W21766~A.0025.K.jpg.19R.bmp
       W21890~A.0005.K.jpg.19L.bmp
+      W21894~A.0009.K.jpg.19R.bmp
       w22292~A.0027.K.jpg.19L.bmp
       w22292~A.0027.K.jpg.19R.bmp
+      W22455~A.0002.K.jpg.19R.bmp
       W22666-1.0002.K.jpg.19L.bmp
       w22881~A.0017.K.jpg.19L.bmp
       W23075-1~A.0017.K.jpg.19R.bmp
@@ -1839,7 +1839,6 @@ chr_20
 Train: 
       w21000~A.0001.K.jpg.20L.bmp
       w21000~A.0001.K.jpg.20R.bmp
-      w21001~A.0008.K.jpg.20L.bmp
       w21001~A.0008.K.jpg.20R.bmp
       w21002~A.0024.K.jpg.20L.bmp
       w21002~A.0024.K.jpg.20R.bmp
@@ -1869,10 +1868,8 @@ Train:
       W21588~A.0001.K.jpg.20L.bmp
       W21588~A.0001.K.jpg.20R.bmp
       W21766~A.0025.K.jpg.20L.bmp
-      W21766~A.0025.K.jpg.20R.bmp
       W21890~A.0005.K.jpg.20R.bmp
       W21894~A.0009.K.jpg.20L.bmp
-      W21894~A.0009.K.jpg.20R.bmp
       W21902~A.0010.K.jpg.20L.bmp
       W21902~A.0010.K.jpg.20R.bmp
       W21905~A.0007.K.jpg.20L.bmp
@@ -1884,7 +1881,6 @@ Train:
       W22451~A.0011.K.jpg.20L.bmp
       W22451~A.0011.K.jpg.20R.bmp
       W22455~A.0002.K.jpg.20L.bmp
-      W22455~A.0002.K.jpg.20R.bmp
       W22666-1.0002.K.jpg.20R.bmp
       W22670~A.0006.K.jpg.20L.bmp
       W22670~A.0006.K.jpg.20R.bmp
@@ -1898,12 +1894,16 @@ Train:
       W23084~A.0003.K.jp.20L.bmp
       W23084~A.0003.K.jp.20R.bmp
 Test: 
+      w21001~A.0008.K.jpg.20L.bmp
       W21576~A.0010.K.jpg.20L.bmp
       W21576~A.0010.K.jpg.20R.bmp
       W21587~A.0010.K.jpg.20R.bmp
+      W21766~A.0025.K.jpg.20R.bmp
       W21890~A.0005.K.jpg.20L.bmp
+      W21894~A.0009.K.jpg.20R.bmp
       w22292~A.0027.K.jpg.20L.bmp
       w22292~A.0027.K.jpg.20R.bmp
+      W22455~A.0002.K.jpg.20R.bmp
       W22666-1.0002.K.jpg.20L.bmp
       w22881~A.0017.K.jpg.20L.bmp
       W23075-1~A.0017.K.jpg.20R.bmp
@@ -1936,17 +1936,14 @@ Train:
       W21570~A.0001.K.jpg.21L.bmp
       W21570~A.0001.K.jpg.21R.bmp
       W21576~A.0010.K.jpg.21L.bmp
-      W21576~A.0010.K.jpg.21R.bmp
       W21587~A.0008.K.jpg.21R.bmp
       W21587~A.0010.K.jpg.21L.bmp
       W21587~A.0010.K.jpg.21R.bmp
       W21588~A.0001.K.jpg.21L.bmp
       W21588~A.0001.K.jpg.21R.bmp
       W21890~A.0005.K.jpg.21R.bmp
-      W21894~A.0009.K.jpg.21L.bmp
       W21894~A.0009.K.jpg.21R.bmp
       W21902~A.0010.K.jpg.21L.bmp
-      W21902~A.0010.K.jpg.21R.bmp
       W21905~A.0007.K.jpg.21L.bmp
       W21905~A.0007.K.jpg.21R.bmp
       W21906~A.0011.K.jpg.21L.bmp
@@ -1957,7 +1954,6 @@ Train:
       w22292~A.0027.K.jpg.21R.bmp
       W22451~A.0011.K.jpg.21R.bmp
       W22455~A.0002.K.jpg.21L.bmp
-      W22455~A.0002.K.jpg.21R.bmp
       W22666-1.0002.K.jpg.21L.bmp
       W22666-1.0002.K.jpg.21R.bmp
       W22672~A.0004.K.jpg.21L.bmp
@@ -1971,10 +1967,14 @@ Train:
       W23084~A.0003.K.jp.21R.bmp
 Test: 
       w21001~A.0008.K.jpg.21R.bmp
+      W21576~A.0010.K.jpg.21R.bmp
       W21587~A.0008.K.jpg.21L.bmp
       W21766~A.0025.K.jpg.21L.bmp
       W21890~A.0005.K.jpg.21L.bmp
+      W21894~A.0009.K.jpg.21L.bmp
+      W21902~A.0010.K.jpg.21R.bmp
       W22451~A.0011.K.jpg.21L.bmp
+      W22455~A.0002.K.jpg.21R.bmp
       W22670~A.0006.K.jpg.21L.bmp
       W22670~A.0006.K.jpg.21R.bmp
       W22672~A.0004.K.jpg.21R.bmp
@@ -1985,7 +1985,6 @@ chr_22
 Train: 
       w21000~A.0001.K.jpg.22L.bmp
       w21000~A.0001.K.jpg.22R.bmp
-      w21001~A.0008.K.jpg.22L.bmp
       w21001~A.0008.K.jpg.22R.bmp
       w21002~A.0024.K.jpg.22L.bmp
       w21002~A.0024.K.jpg.22R.bmp
@@ -2015,10 +2014,8 @@ Train:
       W21588~A.0001.K.jpg.22L.bmp
       W21588~A.0001.K.jpg.22R.bmp
       W21766~A.0025.K.jpg.22L.bmp
-      W21766~A.0025.K.jpg.22R.bmp
       W21890~A.0005.K.jpg.22R.bmp
       W21894~A.0009.K.jpg.22L.bmp
-      W21894~A.0009.K.jpg.22R.bmp
       W21902~A.0010.K.jpg.22L.bmp
       W21902~A.0010.K.jpg.22R.bmp
       W21905~A.0007.K.jpg.22L.bmp
@@ -2030,7 +2027,6 @@ Train:
       W22451~A.0011.K.jpg.22L.bmp
       W22451~A.0011.K.jpg.22R.bmp
       W22455~A.0002.K.jpg.22L.bmp
-      W22455~A.0002.K.jpg.22R.bmp
       W22666-1.0002.K.jpg.22R.bmp
       W22670~A.0006.K.jpg.22L.bmp
       W22670~A.0006.K.jpg.22R.bmp
@@ -2044,12 +2040,16 @@ Train:
       W23084~A.0003.K.jp.22L.bmp
       W23084~A.0003.K.jp.22R.bmp
 Test: 
+      w21001~A.0008.K.jpg.22L.bmp
       W21576~A.0010.K.jpg.22L.bmp
       W21576~A.0010.K.jpg.22R.bmp
       W21587~A.0010.K.jpg.22R.bmp
+      W21766~A.0025.K.jpg.22R.bmp
       W21890~A.0005.K.jpg.22L.bmp
+      W21894~A.0009.K.jpg.22R.bmp
       w22292~A.0027.K.jpg.22L.bmp
       w22292~A.0027.K.jpg.22R.bmp
+      W22455~A.0002.K.jpg.22R.bmp
       W22666-1.0002.K.jpg.22L.bmp
       w22881~A.0017.K.jpg.22L.bmp
       W23075-1~A.0017.K.jpg.22R.bmp
@@ -2069,11 +2069,9 @@ Train:
       191128-del(X)(p22)-1L.bmp
       191128-del(X)(p22)-21L.bmp
       191128-del(X)(p22)-22L.bmp
-      191128-del(X)(p22)-2L.bmp
       191128-del(X)(p22)-3L.bmp
       191128-del(X)(p22)-6L.bmp
       191128-del(X)(p22)-7L.bmp
-      191128-del(X)(p22)-8L.bmp
       191128-del(X)(p22)-9L.bmp
       192478-delXq21-10L.bmp
       192478-delXq21-11L.bmp
@@ -2103,7 +2101,6 @@ Train:
       87092-i(X)(q10)-11L.bmp
       87092-i(X)(q10)-13L.bmp
       87092-i(X)(q10)-14L.bmp
-      87092-i(X)(q10)-15L.bmp
       87092-i(X)(q10)-16L.bmp
       87092-i(X)(q10)-17L.bmp
       87092-i(X)(q10)-18L.bmp
@@ -2122,18 +2119,15 @@ Train:
       87092-i(X)(q10)-7L.bmp
       87092-i(X)(q10)-8L.bmp
       W17068~A.0003.K.jpg.X.bmp
-      W17068~A.0004.K.jpg.X.bmp
       W17068~A.0006.K.jpg.X.bmp
       W17068~A.0008.K.X.bmp
       W17068~A.0010.K.X.bmp
       W17068~A.0011.K.X.bmp
-      W17068~A.0012.K.X.bmp
       W17068~A.0014.K.X.bmp
       W17068~A.0016.K.X.bmp
       W17068~A.0019.K.X.bmp
       W17068~A.0020.K.X.bmp
       W17068~A.0023.K.X.bmp
-      W17068~A.0024.X_.bmp
       W17068~A.0025.X.bmp
       W17068~A.0026.X.bmp
       W17068~A.0034.K.jpg.X.bmp
@@ -2145,13 +2139,10 @@ Train:
       W21011~A.0008.K.XR.bmp
       W21012~A.0019.K.XL.bmp
       W21012~A.0019.K.XR.bmp
-      W21014~A.0005.K.X.bmp
-      W21022~A.0007.K.jpg.XL.bmp
       W21022~A.0007.K.jpg.XR.bmp
       W21025~A.0002.K.jpg.X.bmp
       W21027~A.0003.K.X.bmp
       W21486~A.0020.K.bmp.X.bmp
-      W21570~A.0001.K.jpg.X.bmp
       W21576~A.0010.K.jpg.X.bmp
       W21587~A.0008.K.jpg.X.bmp
       W21587~A.0010.K.jpg.X.bmp
@@ -2201,7 +2192,6 @@ Train:
       w25443~A.0041.K.jpg.X.bmp
       w25443~A.0043.K.jpg.X.bmp
       w25443~A.0047.K.jpg.X.bmp
-      W28055-1~A.0001.X.bmp
       W28055-1~A.0002.X.bmp
       W28055-1~A.0006.X.bmp
       W28055-1~A.0009.X.bmp
@@ -2217,12 +2207,13 @@ Train:
       W28055-1~A.0038.X.bmp
       W28055-1~A.0039.K.jpg.X.bmp
       W28055-1~A.0049.K.jpg.X.bmp
-      W28055~A.0010.X.bmp
       W28055~A.0012.X.bmp
 Test: 
       191128-del(X)(p22)-14L.bmp
       191128-del(X)(p22)-20L.bmp
+      191128-del(X)(p22)-2L.bmp
       191128-del(X)(p22)-4L.bmp
+      191128-del(X)(p22)-8L.bmp
       192478-delXq21-18L.bmp
       192478-delXq21-1L.bmp
       192478-delXq21-23L.bmp
@@ -2230,15 +2221,22 @@ Test:
       192478-delXq21-6L.bmp
       87092-i(X)(q10)-10L.bmp
       87092-i(X)(q10)-12L.bmp
+      87092-i(X)(q10)-15L.bmp
       87092-i(X)(q10)-26L.bmp
       87092-i(X)(q10)-27L.bmp
       87092-i(X)(q10)-5L.bmp
+      W17068~A.0004.K.jpg.X.bmp
       W17068~A.0009.K.X.bmp
+      W17068~A.0012.K.X.bmp
+      W17068~A.0024.X_.bmp
       W17068~A.0039.K.jpg.X.bmp
       w21001~A.0008.K.jpg.x.bmp
       w21002~A.0024.K.jpg.x.bmp
       W21011~A.0008.K.XL.bmp
+      W21014~A.0005.K.X.bmp
+      W21022~A.0007.K.jpg.XL.bmp
       W21563~A.0006.K.x.bmp
+      W21570~A.0001.K.jpg.X.bmp
       W21890~A.0005.K.jpg.XL.bmp
       W21890~A.0005.K.jpg.XR.bmp
       W21906~A.0011.K.jpg.X.bmp
@@ -2246,7 +2244,9 @@ Test:
       W23075-1~A.0017.K.jpg.X.bmp
       w25443~A.0005.K.jpg.X.bmp
       w25443~A.0031.K.jpg.X.bmp
+      W28055-1~A.0001.X.bmp
       W28055-1~A.0022.X.bmp
+      W28055~A.0010.X.bmp
 
 chr_y
 Train: 
@@ -2277,7 +2277,6 @@ Train:
       184431-Y_14.bmp
       184431-Y_15.bmp
       184431-Y_16.bmp
-      184431-Y_17.bmp
       184431-Y_18.bmp
       184431-Y_19.bmp
       184431-Y_21.bmp
@@ -2317,7 +2316,6 @@ Train:
       191225-_Y_2.bmp
       191225-_Y_20.bmp
       191225-_Y_21.bmp
-      191225-_Y_4.bmp
       191225-_Y_6.bmp
       191225-_Y_7.bmp
       191225-_Y_8.bmp
@@ -2327,8 +2325,6 @@ Train:
       193067-_Y_11.bmp
       193067-_Y_12.bmp
       193067-_Y_14.bmp
-      193067-_Y_15.bmp
-      193067-_Y_16.bmp
       193067-_Y_17.bmp
       193067-_Y_18.bmp
       193067-_Y_19.bmp
@@ -2340,9 +2336,7 @@ Train:
       193067-_Y_4.bmp
       193067-_Y_5.bmp
       193067-_Y_6.bmp
-      193067-_Y_8.bmp
       193067-_Y_9.bmp
-      194161-Y_del(18)(p11)-1.bmp
       194161-Y_del(18)(p11)-10.bmp
       194161-Y_del(18)(p11)-11.bmp
       194161-Y_del(18)(p11)-12.bmp
@@ -2379,7 +2373,6 @@ Train:
       W07391-_Y_3.bmp
       W07391-_Y_4.bmp
       W07391-_Y_5.bmp
-      W07391-_Y_6.bmp
       W07391-_Y_7.bmp
       W07391-_Y_8.bmp
       W07391-_Y_9.bmp
@@ -2392,11 +2385,9 @@ Train:
       W12813-Y_18.bmp
       W12813-Y_2.bmp
       W12813-Y_20.bmp
-      W12813-Y_3.bmp
       W12813-Y_4.bmp
       W12813-Y_5.bmp
       W12813-Y_6.bmp
-      W12813-Y_8.bmp
       W12813-Y_9.bmp
       W12813-Y_9_k.bmp
       W15206-Y_11.bmp
@@ -2413,12 +2404,10 @@ Train:
       W15206-_Y_2.bmp
       W15206-_Y_20.bmp
       W18776-Y_1.bmp
-      W18776-Y_10.bmp
       W18776-Y_12.bmp
       W18776-Y_13.bmp
       W18776-Y_14.bmp
       W18776-Y_15.bmp
-      W18776-Y_16.bmp
       W18776-Y_17.bmp
       W18776-Y_18.bmp
       W18776-Y_19.bmp
@@ -2440,7 +2429,6 @@ Train:
       W21027~A.0003.K.Y.bmp
       W21486~A.0020.K.bmp.Y.bmp
       W21563~A.0006.K.y.bmp
-      W21570~A.0001.K.jpg.Y.bmp
       W21576~A.0010.K.jpg.Y.bmp
       W21587~A.0008.K.jpg.Y.bmp
       W21587~A.0010.K.jpg.Y.bmp
@@ -2449,7 +2437,6 @@ Train:
       W21902~A.0010.K.jpg.Y.bmp
       W21905~A.0007.K.jpg.Y.bmp
       W21906~A.0011.K.jpg.Y.bmp
-      w22038~A.0017.K.jpg.Y.bmp
       w22292~A.0027.K.jpg.Y.bmp
       W22451~A.0011.K.jpg.Y.bmp
       W22455~A.0002.K.jpg.Y.bmp
@@ -2459,7 +2446,6 @@ Train:
       w22881~A.0017.K.jpg.Y.bmp
       W23070~A.0001.K.jpg.Y.bmp
       W23075-1~A.0017.K.jpg.Y.bmp
-      W23082.0026.K.jpg.Y.bmp
       W23713_Y_A.0001.bmp
       W23713_Y_A.0003.bmp
       W23713_Y_A.0004.bmp
@@ -2477,13 +2463,13 @@ Train:
       W23713_Y_A.0024.bmp
       W23713_Y_A.0031.bmp
       W23713_Y_A.0033.bmp
-      W23713_Y_A.0041.bmp
       W23713_Y_A.0044.bmp
 Test: 
       183873-del(18)(p11)-_Y_13.bmp
       183873-del(18)(p11)-_Y_20.bmp
       183873-del(18)(p11)-_Y_22.bmp
       184431-Y_13.bmp
+      184431-Y_17.bmp
       184431-Y_20.bmp
       184431-Y_24.bmp
       184431-Y_25.bmp
@@ -2492,10 +2478,15 @@ Test:
       190258-_Y_21.bmp
       190258-_Y_6.bmp
       191225-_Y_3.bmp
+      191225-_Y_4.bmp
       193067-_Y_13.bmp
+      193067-_Y_15.bmp
+      193067-_Y_16.bmp
       193067-_Y_2.bmp
       193067-_Y_24.bmp
       193067-_Y_7.bmp
+      193067-_Y_8.bmp
+      194161-Y_del(18)(p11)-1.bmp
       194161-Y_del(18)(p11)-15.bmp
       194161-Y_del(18)(p11)-19.bmp
       194161-Y_del(18)(p11)-2.bmp
@@ -2503,10 +2494,13 @@ Test:
       194161-Y_del(18)(p11)-24.bmp
       W07391-_Y_12.bmp
       W07391-_Y_20.bmp
+      W07391-_Y_6.bmp
       W12813-Y_13.bmp
       W12813-Y_19.bmp
       W12813-Y_22.bmp
+      W12813-Y_3.bmp
       W12813-Y_7.bmp
+      W12813-Y_8.bmp
       W15206-Y_10.bmp
       W15206-Y_13.bmp
       W15206-Y_6.bmp
@@ -2514,9 +2508,15 @@ Test:
       W15206-Y_8.bmp
       W15206-_Y_17.bmp
       W15206-_Y_3.bmp
+      W18776-Y_10.bmp
+      W18776-Y_16.bmp
       W18776-Y_9.bmp
       w21002~A.0024.K.jpg.y.bmp
+      W21570~A.0001.K.jpg.Y.bmp
       W21588~A.0001.K.jpg.Y.bmp
+      w22038~A.0017.K.jpg.Y.bmp
+      W23082.0026.K.jpg.Y.bmp
       W23084~A.0003.K.jp.Y.bmp
+      W23713_Y_A.0041.bmp
       W23713_Y_A.0049.bmp
 
