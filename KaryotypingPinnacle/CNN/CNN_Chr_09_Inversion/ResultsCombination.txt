@@ -1,30 +1,30 @@
-Accuracy: 0.9076212471131639
+Accuracy: 0.9260969976905312
 
-AUC: 0.9657180969319699.
+AUC: 0.9663628279235216.
 
 Performance Report: 
                  precision    recall  f1-score   support
 
-         chr_09       0.92      0.93      0.92       260
-chr_9_inversion       0.89      0.88      0.88       173
+         chr_09       0.94      0.93      0.94       260
+chr_9_inversion       0.90      0.91      0.91       173
 
-      micro avg       0.91      0.91      0.91       433
-      macro avg       0.90      0.90      0.90       433
-   weighted avg       0.91      0.91      0.91       433
+      micro avg       0.93      0.93      0.93       433
+      macro avg       0.92      0.92      0.92       433
+   weighted avg       0.93      0.93      0.93       433
 
 
 Confusion Matrix: 
                  chr_09  chr_9_inversion
-chr_09              241               19
-chr_9_inversion      21              152.
+chr_09              243               17
+chr_9_inversion      15              158.
 
 Recall of Confusion Matrix: 
                    chr_09  chr_9_inversion
-chr_09           0.926923         0.073077
-chr_9_inversion  0.121387         0.878613.
+chr_09           0.934615         0.065385
+chr_9_inversion  0.086705         0.913295.
 
 Precision of Confusion Matrix: 
                    chr_09  chr_9_inversion
-chr_09           0.919847         0.080153
-chr_9_inversion  0.111111         0.888889.
+chr_09           0.941860         0.058140
+chr_9_inversion  0.097143         0.902857.
 

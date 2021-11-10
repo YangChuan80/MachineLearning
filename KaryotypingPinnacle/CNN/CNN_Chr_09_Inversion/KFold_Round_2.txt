@@ -4,22 +4,21 @@ chr_09
 Train: 
       193002-9p12q13_11L.bmp
       193002-9p12q13_12L.bmp
-      193002-9p12q13_13L.bmp
       193002-9p12q13_14L.bmp
       193002-9p12q13_15L.bmp
-      193002-9p12q13_17L.bmp
       193002-9p12q13_18L.bmp
       193002-9p12q13_19L.bmp
       193002-9p12q13_1L.bmp
       193002-9p12q13_24L.bmp
       193002-9p12q13_2L.bmp
       193002-9p12q13_3L.bmp
-      193002-9p12q13_4L.bmp
+      193002-9p12q13_5L.bmp
       193002-9p12q13_6L.bmp
       193002-9p12q13_7L.bmp
       193002-9p12q13_9L.bmp
       W07391-9p12q_10L.bmp
       W07391-9p12q_11L.bmp
+      W07391-9p12q_12L.bmp
       W07391-9p12q_13L.bmp
       W07391-9p12q_14L.bmp
       W07391-9p12q_15L.bmp
@@ -34,7 +33,6 @@ Train:
       W07391-9p12q_2L.bmp
       W07391-9p12q_3L.bmp
       W07391-9p12q_4L.bmp
-      W07391-9p12q_5L.bmp
       W07391-9p12q_6L.bmp
       W07391-9p12q_7L.bmp
       W07391-9p12q_9L.bmp
@@ -42,72 +40,69 @@ Train:
       W15206-_9p12q_11L.bmp
       W15206-_9p12q_13L.bmp
       W15206-_9p12q_14L.bmp
-      W15206-_9p12q_15L.bmp
       W15206-_9p12q_16L.bmp
       W15206-_9p12q_17L.bmp
       W15206-_9p12q_19L.bmp
       W15206-_9p12q_1L.bmp
       W15206-_9p12q_20L.bmp
       W15206-_9p12q_2L.bmp
-      W15206-_9p12q_4L.bmp
+      W15206-_9p12q_3L.bmp
+      W15206-_9p12q_5L.bmp
+      W15206-_9p12q_6L.bmp
       W15206-_9p12q_7L.bmp
       W15206-_9p12q_8L.bmp
+      W15206-_9p12q_9L.bmp
       W18776-9p12q13_10L.bmp
       W18776-9p12q13_11L.bmp
       W18776-9p12q13_12L.bmp
       W18776-9p12q13_13L.bmp
       W18776-9p12q13_14L.bmp
       W18776-9p12q13_15L.bmp
-      W18776-9p12q13_16L.bmp
       W18776-9p12q13_17L.bmp
       W18776-9p12q13_18L.bmp
       W18776-9p12q13_19L.bmp
-      W18776-9p12q13_1L.bmp
       W18776-9p12q13_20L.bmp
       W18776-9p12q13_21L.bmp
       W18776-9p12q13_22L.bmp
       W18776-9p12q13_23L.bmp
-      W18776-9p12q13_2L.bmp
       W18776-9p12q13_3L.bmp
       W18776-9p12q13_4L.bmp
       W18776-9p12q13_5L.bmp
       W18776-9p12q13_6L.bmp
       W18776-9p12q13_7L.bmp
-      W18776-9p12q13_8L.bmp
-      W18776-9p12q13_9L.bmp
       w21000~A.0001.K.jpg.9L.bmp
+      w21000~A.0001.K.jpg.9R.bmp
       w21001~A.0008.K.jpg.09L.bmp
       w21001~A.0008.K.jpg.09R.bmp
       w21002~A.0024.K.jpg.9L.bmp
       w21002~A.0024.K.jpg.9R.bmp
+      w21008~A.0008.K.jpg.9L.bmp
       w21008~A.0008.K.jpg.9R.bmp
       W21011~A.0008.K.9L.bmp
       W21011~A.0008.K.9R.bmp
-      W21012~A.0019.K.9R.bmp
+      W21012~A.0019.K.9L.bmp
       W21014~A.0005.K.9L.bmp
       W21014~A.0005.K.9R.bmp
-      W21022~A.0007.K.jpg.9L.bmp
-      W21022~A.0007.K.jpg.9R.bmp
+      W21027~A.0003.K.9L.bmp
       W21027~A.0003.K.9R.bmp
       W21486~A.0020.K.bmp.9L.bmp
       W21486~A.0020.K.bmp.9R.bmp
-      W21563~A.0006.K.9L.bmp
       W21563~A.0006.K.9R.bmp
-      W21570~A.0001.K.jpg.9L.bmp
       W21570~A.0001.K.jpg.9R.bmp
       W21576~A.0010.K.jpg.9L.bmp
-      W21576~A.0010.K.jpg.9R.bmp
       W21587~A.0008.K.jpg.9L.bmp
+      W21587~A.0008.K.jpg.9R.bmp
       W21587~A.0010.K.jpg.9L.bmp
+      W21587~A.0010.K.jpg.9R.bmp
       W21588~A.0001.K.jpg.9L.bmp
       W21588~A.0001.K.jpg.9R.bmp
       W21766~A.0025.K.jpg.9L.bmp
       W21766~A.0025.K.jpg.9R.bmp
       W21890~A.0005.K.jpg.9L.bmp
       W21890~A.0005.K.jpg.9R.bmp
+      W21894~A.0009.K.jpg.9R.bmp
       W21902~A.0010.K.jpg.9L.bmp
       W21905~A.0007.K.jpg.9L.bmp
-      W21905~A.0007.K.jpg.9R.bmp
       W21906~A.0011.K.jpg.9L.bmp
       W21906~A.0011.K.jpg.9R.bmp
       w22038~A.0017.K.jpg.9L.bmp
@@ -128,77 +123,67 @@ Train:
       W22650-9p12q13_19L.bmp
       W22650-9p12q13_1L.bmp
       W22650-9p12q13_20L.bmp
+      W22650-9p12q13_21L.bmp
       W22650-9p12q13_22L.bmp
       W22650-9p12q13_23L.bmp
+      W22650-9p12q13_24L.bmp
       W22650-9p12q13_25L.bmp
-      W22650-9p12q13_26L.bmp
       W22650-9p12q13_27L.bmp
-      W22650-9p12q13_2L.bmp
       W22650-9p12q13_3L.bmp
+      W22650-9p12q13_4L.bmp
       W22650-9p12q13_5L.bmp
       W22650-9p12q13_7L.bmp
       W22650-9p12q13_8L.bmp
+      W22650-9p12q13_9L.bmp
       W22666-1.0002.K.jpg.9L.bmp
       W22666-1.0002.K.jpg.9R.bmp
-      W22670~A.0006.K.jpg.9L.bmp
       W22670~A.0006.K.jpg.9R.bmp
       W22672~A.0004.K.jpg.9L.bmp
-      W22672~A.0004.K.jpg.9R.bmp
       w22881~A.0017.K.jpg.9L.bmp
       w22881~A.0017.K.jpg.9R.bmp
       W23070~A.0001.K.jpg.9L.bmp
-      W23070~A.0001.K.jpg.9R.bmp
-      W23075-1~A.0017.K.jpg.9L.bmp
       W23075-1~A.0017.K.jpg.9R.bmp
       W23082.0026.K.jpg.9L.bmp
+      W23082.0026.K.jpg.9R.bmp
       W23084~A.0003.K.jp.9L.bmp
+      W23084~A.0003.K.jp.9R.bmp
       W23713~A.0006.K_9p12q13_10L.bmp
-      W23713~A.0006.K_9p12q13_13L.bmp
+      W23713~A.0006.K_9p12q13_11L.bmp
       W23713~A.0006.K_9p12q13_14L.bmp
       W23713~A.0006.K_9p12q13_15L.bmp
       W23713~A.0006.K_9p12q13_16L.bmp
+      W23713~A.0006.K_9p12q13_19L.bmp
+      W23713~A.0006.K_9p12q13_1L.bmp
+      W23713~A.0006.K_9p12q13_20L.bmp
       W23713~A.0006.K_9p12q13_21L.bmp
       W23713~A.0006.K_9p12q13_22L.bmp
       W23713~A.0006.K_9p12q13_23L.bmp
-      W23713~A.0006.K_9p12q13_24L.bmp
       W23713~A.0006.K_9p12q13_2L.bmp
       W23713~A.0006.K_9p12q13_31L.bmp
       W23713~A.0006.K_9p12q13_33L.bmp
       W23713~A.0006.K_9p12q13_41L.bmp
-      W23713~A.0006.K_9p12q13_44L.bmp
       W23713~A.0006.K_9p12q13_49L.bmp
       W23713~A.0006.K_9p12q13_4L.bmp
       W23713~A.0006.K_9p12q13_6L.bmp
       W23713~A.0006.K_9p12q13_7L.bmp
       W23713~A.0006.K_9p12q13_9L.bmp
-      W25873~A.0001.K.jpg.9L.bmp
       W25873~A.0002.K.jpg.9L.bmp
-      W25873~A.0003.K.jpg_9L.bmp
       W25873~A.0006.K.jpg.9L.bmp
       W25873~A.0007.K.jpg.9L.bmp
       W25873~A.0009.K.jpg.9L.bmp
-      W25873~A.0011.K.jpg_9L.bmp
-      W25873~A.0014.K.jpg_9L.bmp
-      W25873~A.0017.K.jpg.9L.bmp
+      W25873~A.0016.K.jpg_9L.bmp
       W25873~A.0026.K.jpg.9L.bmp
-      W25873~A.0031.K.jpg.9L.bmp
+      W25873~A.0027.K.jpg.9L.bmp
       W25873~A.0034.K.jpg.9L.bmp
       W25873~A.0039.K.jpg.9L.bmp
-      W25873~A.0040.K.jpg.9L.bmp
       W25873~A.0043.K.jpg.9L.bmp
-      W27694-1.jpg.9L.bmp
-      W27694-10.jpg.9L.bmp
-      W27694-11.jpg.9L.bmp
       W27694-12.jpg.9L.bmp
       W27694-13.jpg.9L.bmp
       W27694-14.jpg.9L.bmp
       W27694-15.jpg.9L.bmp
       W27694-16.jpg.9L.bmp
-      W27694-17.jpg.9L.bmp
-      W27694-18.jpg.9L.bmp
       W27694-19.jpg.9L.bmp
-      W27694-20.jpg.9L.bmp
-      W27694-21.jpg.9L.bmp
+      W27694-22.bmp.9L.bmp
       W27694-2_.jpg.9L.bmp
       W27694-3.jpg.9L.bmp
       W27694-4.jpg.9L.bmp
@@ -208,9 +193,9 @@ Train:
       W27694-8.jpg.9L.bmp
       W27694-9.jpg.9L.bmp
       W27715-9p12q_10L.bmp
-      W27715-9p12q_11L.bmp
       W27715-9p12q_12L.bmp
-      W27715-9p12q_14L.bmp
+      W27715-9p12q_13L.bmp
+      W27715-9p12q_15L.bmp
       W27715-9p12q_16L.bmp
       W27715-9p12q_17L.bmp
       W27715-9p12q_18L.bmp
@@ -219,94 +204,106 @@ Train:
       W27715-9p12q_22L.bmp
       W27715-9p12q_24L.bmp
       W27715-9p12q_25L.bmp
+      W27715-9p12q_2L.bmp
       W27715-9p12q_3L.bmp
       W27715-9p12q_5L.bmp
       W27715-9p12q_6L.bmp
       W27715-9p12q_7L.bmp
-      W27715-9p12q_8L.bmp
       W27715-9p12q_9L.bmp
 Test: 
+      193002-9p12q13_13L.bmp
       193002-9p12q13_16L.bmp
-      193002-9p12q13_5L.bmp
+      193002-9p12q13_17L.bmp
+      193002-9p12q13_4L.bmp
       193002-9p12q13_8L.bmp
-      W07391-9p12q_12L.bmp
+      W07391-9p12q_5L.bmp
       W15206-_9p12q_12L.bmp
+      W15206-_9p12q_15L.bmp
       W15206-_9p12q_18L.bmp
-      W15206-_9p12q_3L.bmp
-      W15206-_9p12q_5L.bmp
-      W15206-_9p12q_6L.bmp
-      W15206-_9p12q_9L.bmp
-      w21000~A.0001.K.jpg.9R.bmp
-      w21008~A.0008.K.jpg.9L.bmp
-      W21012~A.0019.K.9L.bmp
-      W21027~A.0003.K.9L.bmp
-      W21587~A.0008.K.jpg.9R.bmp
-      W21587~A.0010.K.jpg.9R.bmp
+      W15206-_9p12q_4L.bmp
+      W18776-9p12q13_16L.bmp
+      W18776-9p12q13_1L.bmp
+      W18776-9p12q13_2L.bmp
+      W18776-9p12q13_8L.bmp
+      W18776-9p12q13_9L.bmp
+      W21012~A.0019.K.9R.bmp
+      W21022~A.0007.K.jpg.9L.bmp
+      W21022~A.0007.K.jpg.9R.bmp
+      W21563~A.0006.K.9L.bmp
+      W21570~A.0001.K.jpg.9L.bmp
+      W21576~A.0010.K.jpg.9R.bmp
       W21894~A.0009.K.jpg.9L.bmp
-      W21894~A.0009.K.jpg.9R.bmp
       W21902~A.0010.K.jpg.9R.bmp
-      W22650-9p12q13_21L.bmp
-      W22650-9p12q13_24L.bmp
-      W22650-9p12q13_4L.bmp
-      W22650-9p12q13_9L.bmp
-      W23082.0026.K.jpg.9R.bmp
-      W23084~A.0003.K.jp.9R.bmp
-      W23713~A.0006.K_9p12q13_11L.bmp
-      W23713~A.0006.K_9p12q13_19L.bmp
-      W23713~A.0006.K_9p12q13_1L.bmp
-      W23713~A.0006.K_9p12q13_20L.bmp
+      W21905~A.0007.K.jpg.9R.bmp
+      W22650-9p12q13_26L.bmp
+      W22650-9p12q13_2L.bmp
+      W22670~A.0006.K.jpg.9L.bmp
+      W22672~A.0004.K.jpg.9R.bmp
+      W23070~A.0001.K.jpg.9R.bmp
+      W23075-1~A.0017.K.jpg.9L.bmp
+      W23713~A.0006.K_9p12q13_13L.bmp
+      W23713~A.0006.K_9p12q13_24L.bmp
       W23713~A.0006.K_9p12q13_3L.bmp
-      W25873~A.0016.K.jpg_9L.bmp
-      W25873~A.0027.K.jpg.9L.bmp
-      W27694-22.bmp.9L.bmp
-      W27715-9p12q_13L.bmp
-      W27715-9p12q_15L.bmp
+      W23713~A.0006.K_9p12q13_44L.bmp
+      W25873~A.0001.K.jpg.9L.bmp
+      W25873~A.0003.K.jpg_9L.bmp
+      W25873~A.0011.K.jpg_9L.bmp
+      W25873~A.0014.K.jpg_9L.bmp
+      W25873~A.0017.K.jpg.9L.bmp
+      W25873~A.0031.K.jpg.9L.bmp
+      W25873~A.0040.K.jpg.9L.bmp
+      W27694-1.jpg.9L.bmp
+      W27694-10.jpg.9L.bmp
+      W27694-11.jpg.9L.bmp
+      W27694-17.jpg.9L.bmp
+      W27694-18.jpg.9L.bmp
+      W27694-20.jpg.9L.bmp
+      W27694-21.jpg.9L.bmp
+      W27715-9p12q_11L.bmp
+      W27715-9p12q_14L.bmp
       W27715-9p12q_23L.bmp
-      W27715-9p12q_2L.bmp
+      W27715-9p12q_8L.bmp
 
 chr_9_inversion
 Train: 
-      193002-9p12q13_11R.bmp
       193002-9p12q13_12R.bmp
-      193002-9p12q13_13R.bmp
       193002-9p12q13_14R.bmp
       193002-9p12q13_15R.bmp
       193002-9p12q13_16R.bmp
-      193002-9p12q13_17R.bmp
       193002-9p12q13_18R.bmp
       193002-9p12q13_19R.bmp
       193002-9p12q13_1R.bmp
-      193002-9p12q13_24R.bmp
       193002-9p12q13_2R.bmp
+      193002-9p12q13_3R.bmp
+      193002-9p12q13_4R.bmp
       193002-9p12q13_5R.bmp
       193002-9p12q13_6R.bmp
       193002-9p12q13_7R.bmp
+      193002-9p12q13_8R.bmp
       193002-9p12q13_9R.bmp
       W07391-9p12q_10R.bmp
       W07391-9p12q_11R.bmp
-      W07391-9p12q_12R.bmp
       W07391-9p12q_13R.bmp
       W07391-9p12q_14R.bmp
       W07391-9p12q_15R.bmp
       W07391-9p12q_16R.bmp
       W07391-9p12q_17R.bmp
       W07391-9p12q_18R.bmp
+      W07391-9p12q_19R.bmp
       W07391-9p12q_1R.bmp
       W07391-9p12q_20R.bmp
       W07391-9p12q_21R.bmp
-      W07391-9p12q_22R.bmp
       W07391-9p12q_2R.bmp
-      W07391-9p12q_3R.bmp
       W07391-9p12q_4R.bmp
+      W07391-9p12q_5R.bmp
       W07391-9p12q_6R.bmp
-      W07391-9p12q_7R.bmp
       W07391-9p12q_8R.bmp
       W07391-9p12q_9R.bmp
       W15206-_9p12q_10R.bmp
       W15206-_9p12q_11R.bmp
       W15206-_9p12q_12R.bmp
       W15206-_9p12q_13R.bmp
-      W15206-_9p12q_15R.bmp
+      W15206-_9p12q_14R.bmp
       W15206-_9p12q_16R.bmp
       W15206-_9p12q_17R.bmp
       W15206-_9p12q_18R.bmp
@@ -315,44 +312,42 @@ Train:
       W15206-_9p12q_20R.bmp
       W15206-_9p12q_2R.bmp
       W15206-_9p12q_3R.bmp
-      W15206-_9p12q_4R.bmp
       W15206-_9p12q_5R.bmp
       W15206-_9p12q_6R.bmp
       W15206-_9p12q_7R.bmp
       W15206-_9p12q_8R.bmp
       W15206-_9p12q_9R.bmp
       W18776-9p12q13_10R.bmp
-      W18776-9p12q13_11R.bmp
       W18776-9p12q13_12R.bmp
       W18776-9p12q13_13R.bmp
-      W18776-9p12q13_14R.bmp
+      W18776-9p12q13_16R.bmp
       W18776-9p12q13_17R.bmp
       W18776-9p12q13_18R.bmp
       W18776-9p12q13_19R.bmp
-      W18776-9p12q13_1R.bmp
       W18776-9p12q13_20R.bmp
       W18776-9p12q13_21R.bmp
       W18776-9p12q13_22R.bmp
-      W18776-9p12q13_2R.bmp
       W18776-9p12q13_4R.bmp
       W18776-9p12q13_5R.bmp
-      W18776-9p12q13_6R.bmp
+      W18776-9p12q13_7R.bmp
       W18776-9p12q13_8R.bmp
       W18776-9p12q13_9R.bmp
       W22650-9p12q13_10R.bmp
       W22650-9p12q13_11R.bmp
-      W22650-9p12q13_12R.bmp
-      W22650-9p12q13_14R.bmp
       W22650-9p12q13_15R.bmp
       W22650-9p12q13_17R.bmp
       W22650-9p12q13_18R.bmp
+      W22650-9p12q13_19R.bmp
       W22650-9p12q13_1R.bmp
       W22650-9p12q13_20R.bmp
+      W22650-9p12q13_21R.bmp
+      W22650-9p12q13_22R.bmp
       W22650-9p12q13_23R.bmp
+      W22650-9p12q13_24R.bmp
       W22650-9p12q13_25R.bmp
       W22650-9p12q13_26R.bmp
+      W22650-9p12q13_27R.bmp
       W22650-9p12q13_2R.bmp
-      W22650-9p12q13_3R.bmp
       W22650-9p12q13_4R.bmp
       W22650-9p12q13_5R.bmp
       W22650-9p12q13_7R.bmp
@@ -360,27 +355,26 @@ Train:
       W22650-9p12q13_9R.bmp
       W23713~A.0006.K_9p12q13_10R.bmp
       W23713~A.0006.K_9p12q13_11R.bmp
-      W23713~A.0006.K_9p12q13_13R.bmp
+      W23713~A.0006.K_9p12q13_14R.bmp
       W23713~A.0006.K_9p12q13_15R.bmp
       W23713~A.0006.K_9p12q13_16R.bmp
       W23713~A.0006.K_9p12q13_19R.bmp
       W23713~A.0006.K_9p12q13_1R.bmp
-      W23713~A.0006.K_9p12q13_20R.bmp
       W23713~A.0006.K_9p12q13_21R.bmp
       W23713~A.0006.K_9p12q13_22R.bmp
-      W23713~A.0006.K_9p12q13_23R.bmp
       W23713~A.0006.K_9p12q13_24R.bmp
       W23713~A.0006.K_9p12q13_2R.bmp
       W23713~A.0006.K_9p12q13_31R.bmp
+      W23713~A.0006.K_9p12q13_33R.bmp
       W23713~A.0006.K_9p12q13_3R.bmp
-      W23713~A.0006.K_9p12q13_41R.bmp
       W23713~A.0006.K_9p12q13_44R.bmp
+      W23713~A.0006.K_9p12q13_49R.bmp
       W23713~A.0006.K_9p12q13_6R.bmp
       W23713~A.0006.K_9p12q13_7R.bmp
       W23713~A.0006.K_9p12q13_9R.bmp
       W27694-1.jpg.9inv.bmp
-      W27694-10.jpg.9inv.bmp
       W27694-11.jpg.9inv.bmp
+      W27694-12.jpg.9inv.bmp
       W27694-13.jpg.9inv.bmp
       W27694-14.jpg.9inv.bmp
       W27694-15.jpg.9inv.bmp
@@ -389,55 +383,61 @@ Train:
       W27694-20.jpg.9inv.bmp
       W27694-21.jpg.9inv.bmp
       W27694-22.jpg.9inv.bmp
-      W27694-2_.jpg.9invs.bmp
       W27694-3.jpg.9inv.bmp
       W27694-4.jpg.9inv.bmp
       W27694-5.jpg.9inv.bmp
       W27694-6.jpg.9inv.bmp
       W27694-7.jpg.9inv.bmp
       W27694-8.jpg.9inv.bmp
-      W27694-9.jpg.9inv.bmp
-      W27715-9p12q_10R.bmp
       W27715-9p12q_11R.bmp
-      W27715-9p12q_12R.bmp
       W27715-9p12q_13R.bmp
       W27715-9p12q_14R.bmp
       W27715-9p12q_15R.bmp
+      W27715-9p12q_16R.bmp
+      W27715-9p12q_17R.bmp
       W27715-9p12q_18R.bmp
       W27715-9p12q_19R.bmp
       W27715-9p12q_22R.bmp
-      W27715-9p12q_23R.bmp
       W27715-9p12q_24R.bmp
       W27715-9p12q_25R.bmp
+      W27715-9p12q_2R.bmp
       W27715-9p12q_3R.bmp
-      W27715-9p12q_5R.bmp
       W27715-9p12q_6R.bmp
       W27715-9p12q_8R.bmp
-      W27715-9p12q_9R.bmp
 Test: 
-      193002-9p12q13_3R.bmp
-      193002-9p12q13_4R.bmp
-      193002-9p12q13_8R.bmp
-      W07391-9p12q_19R.bmp
-      W07391-9p12q_5R.bmp
-      W15206-_9p12q_14R.bmp
-      W18776-9p12q13_16R.bmp
-      W18776-9p12q13_7R.bmp
-      W22650-9p12q13_19R.bmp
-      W22650-9p12q13_21R.bmp
-      W22650-9p12q13_22R.bmp
-      W22650-9p12q13_24R.bmp
-      W22650-9p12q13_27R.bmp
-      W23713~A.0006.K_9p12q13_14R.bmp
-      W23713~A.0006.K_9p12q13_33R.bmp
-      W23713~A.0006.K_9p12q13_49R.bmp
+      193002-9p12q13_11R.bmp
+      193002-9p12q13_13R.bmp
+      193002-9p12q13_17R.bmp
+      193002-9p12q13_24R.bmp
+      W07391-9p12q_12R.bmp
+      W07391-9p12q_22R.bmp
+      W07391-9p12q_3R.bmp
+      W07391-9p12q_7R.bmp
+      W15206-_9p12q_15R.bmp
+      W15206-_9p12q_4R.bmp
+      W18776-9p12q13_11R.bmp
+      W18776-9p12q13_14R.bmp
+      W18776-9p12q13_1R.bmp
+      W18776-9p12q13_2R.bmp
+      W18776-9p12q13_6R.bmp
+      W22650-9p12q13_12R.bmp
+      W22650-9p12q13_14R.bmp
+      W22650-9p12q13_3R.bmp
+      W23713~A.0006.K_9p12q13_13R.bmp
+      W23713~A.0006.K_9p12q13_20R.bmp
+      W23713~A.0006.K_9p12q13_23R.bmp
+      W23713~A.0006.K_9p12q13_41R.bmp
       W23713~A.0006.K_9p12q13_4R.bmp
-      W27694-12.jpg.9inv.bmp
+      W27694-10.jpg.9inv.bmp
       W27694-16.jpg.9inv.bmp
       W27694-18.jpg.9inv.bmp
-      W27715-9p12q_16R.bmp
-      W27715-9p12q_17R.bmp
+      W27694-2_.jpg.9invs.bmp
+      W27694-9.jpg.9inv.bmp
+      W27715-9p12q_10R.bmp
+      W27715-9p12q_12R.bmp
       W27715-9p12q_20R.bmp
-      W27715-9p12q_2R.bmp
+      W27715-9p12q_23R.bmp
+      W27715-9p12q_5R.bmp
       W27715-9p12q_7R.bmp
+      W27715-9p12q_9R.bmp
 

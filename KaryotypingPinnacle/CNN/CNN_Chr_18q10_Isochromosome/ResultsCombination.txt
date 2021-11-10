@@ -1,6 +1,6 @@
 Accuracy: 1.0
 
-AUC: 0.999633431085044.
+AUC: 1.0.
 
 Performance Report: 
                           precision    recall  f1-score   support

@@ -1,20 +1,20 @@
-Accuracy: 0.9166666865348816
+Accuracy: 0.9599999785423279
 
-AUC: 0.9745454545454545.
+AUC: 0.9761904761904762.
 
 Performance Report: 
                      precision    recall  f1-score   support
 
-             chr_18       1.00      0.88      0.94        25
-chr_18_p11_deletion       0.79      1.00      0.88        11
+             chr_18       1.00      0.94      0.97        35
+chr_18_p11_deletion       0.88      1.00      0.94        15
 
-          micro avg       0.92      0.92      0.92        36
-          macro avg       0.89      0.94      0.91        36
-       weighted avg       0.93      0.92      0.92        36
+          micro avg       0.96      0.96      0.96        50
+          macro avg       0.94      0.97      0.95        50
+       weighted avg       0.96      0.96      0.96        50
 
 
 Confusion Matrix: 
                      chr_18  chr_18_p11_deletion
-chr_18                   22                    3
-chr_18_p11_deletion       0                   11.
+chr_18                   33                    2
+chr_18_p11_deletion       0                   15.
 
