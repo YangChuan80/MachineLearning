@@ -1,0 +1,30 @@
+Accuracy: 0.9304347826086956
+
+AUC: 0.9353464963221061.
+
+Performance Report: 
+                    precision    recall  f1-score   support
+
+             chr_x       0.95      0.97      0.96       189
+chr_x_q22_deletion       0.84      0.76      0.79        41
+
+         micro avg       0.93      0.93      0.93       230
+         macro avg       0.89      0.86      0.88       230
+      weighted avg       0.93      0.93      0.93       230
+
+
+Confusion Matrix: 
+                    chr_x  chr_x_q22_deletion
+chr_x                 183                   6
+chr_x_q22_deletion     10                  31.
+
+Recall of Confusion Matrix: 
+                       chr_x  chr_x_q22_deletion
+chr_x               0.968254            0.031746
+chr_x_q22_deletion  0.243902            0.756098.
+
+Precision of Confusion Matrix: 
+                       chr_x  chr_x_q22_deletion
+chr_x               0.948187            0.051813
+chr_x_q22_deletion  0.162162            0.837838.
+
