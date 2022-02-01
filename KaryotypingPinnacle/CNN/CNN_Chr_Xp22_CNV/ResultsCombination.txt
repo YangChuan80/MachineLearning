@@ -1,30 +1,30 @@
-Accuracy: 0.9327354260089686
+Accuracy: 0.9282511210762332
 
-AUC: 0.9491129785247432.
+AUC: 0.9135543106131342.
 
 Performance Report: 
                precision    recall  f1-score   support
 
-        chr_x       0.96      0.96      0.96       189
-chr_x_p22_cnv       0.79      0.76      0.78        34
+        chr_x       0.95      0.97      0.96       189
+chr_x_p22_cnv       0.80      0.71      0.75        34
 
     micro avg       0.93      0.93      0.93       223
-    macro avg       0.87      0.86      0.87       223
+    macro avg       0.87      0.84      0.85       223
  weighted avg       0.93      0.93      0.93       223
 
 
 Confusion Matrix: 
                chr_x  chr_x_p22_cnv
-chr_x            182              7
-chr_x_p22_cnv      8             26.
+chr_x            183              6
+chr_x_p22_cnv     10             24.
 
 Recall of Confusion Matrix: 
                   chr_x  chr_x_p22_cnv
-chr_x          0.962963       0.037037
-chr_x_p22_cnv  0.235294       0.764706.
+chr_x          0.968254       0.031746
+chr_x_p22_cnv  0.294118       0.705882.
 
 Precision of Confusion Matrix: 
                   chr_x  chr_x_p22_cnv
-chr_x          0.957895       0.042105
-chr_x_p22_cnv  0.212121       0.787879.
+chr_x          0.948187       0.051813
+chr_x_p22_cnv  0.200000       0.800000.
 
