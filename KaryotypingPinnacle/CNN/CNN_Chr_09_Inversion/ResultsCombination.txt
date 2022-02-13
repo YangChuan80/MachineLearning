@@ -5,12 +5,12 @@ AUC: 0.9663628279235216.
 Performance Report: 
                  precision    recall  f1-score   support
 
-         chr_09       0.94      0.93      0.94       260
-chr_9_inversion       0.90      0.91      0.91       173
+         chr_09   0.941860  0.934615  0.938224       260
+chr_9_inversion   0.902857  0.913295  0.908046       173
 
-      micro avg       0.93      0.93      0.93       433
-      macro avg       0.92      0.92      0.92       433
-   weighted avg       0.93      0.93      0.93       433
+      micro avg   0.926097  0.926097  0.926097       433
+      macro avg   0.922359  0.923955  0.923135       433
+   weighted avg   0.926277  0.926097  0.926167       433
 
 
 Confusion Matrix: 

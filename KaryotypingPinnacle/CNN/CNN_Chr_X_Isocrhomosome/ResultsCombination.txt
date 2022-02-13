@@ -5,12 +5,12 @@ AUC: 0.9721795528247141.
 Performance Report: 
                      precision    recall  f1-score   support
 
-              chr_x       0.95      0.98      0.97       189
-chr_x_isochromosome       0.95      0.84      0.89        62
+              chr_x   0.948980  0.984127  0.966234       189
+chr_x_isochromosome   0.945455  0.838710  0.888889        62
 
-          micro avg       0.95      0.95      0.95       251
-          macro avg       0.95      0.91      0.93       251
-       weighted avg       0.95      0.95      0.95       251
+          micro avg   0.948207  0.948207  0.948207       251
+          macro avg   0.947217  0.911418  0.927561       251
+       weighted avg   0.948109  0.948207  0.947129       251
 
 
 Confusion Matrix: 
