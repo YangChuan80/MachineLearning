@@ -6,109 +6,19 @@ Chromosome Classification via Support Vector Machine Applied in Patients with St
 ## Introduction
 Karyotyping is an important procedure in cytogenetic practice for an early diagnosis of genetic diseases. The etiologies of many diseases originate from the abnormalities of karyotypes, such as leukemia, Down syndrome, simultaneous abortion, etc. So, the karyotype analysis is the basis and important reference for further diagnosis of genetics-related disease and preimplantation genetic diagnosis and screening. It has the advantages of ease of specimen aggregation and low testing costs. However, the clinical work of karyotyping is tedious, time-consuming, and sometimes error-prone, which is a heavy-load job even for an experienced cytogeneticist.
 
-To challenge this paradox circumstance, we developed an electronic stethoscope using a credit card sized single-board computer (SBC), Raspberry Pi, connected to a chest piece of a conventional stethoscope and a tiny speaker, which can be easily modified by medical staff themselves. The software run by raspberry pi coded in python programming language was open source and has already been published on GitHub repository. All users who are interest in the stethoscope all around the world can assemble the components easily and download the software freely in a do-it-yourself (DIY) way. 
-[![Graphic User's Interface of Auscul Pi Console](GUI_TouchScreen.png)](README.md)
+The objective of this portion was to propose a support vector machine model for automatically classifying both normal and abnormal chromosomes with the extracted chromosome images from patients, and an assessment was made to evaluate the performance of the model on a further translation of clinical practice, so that automatic classification of chromosomes is achieved to reduce the workload of chromosome karyotype analysts.
 
-The graphic user interface (GUI) of the touch screen displayed by Auscul Pi. A. The desktop display after startup. The users can double touch the Auscul Pi icon to run the program. The recorded data will be stored in the folder AudioData. B. The manipulation interface of Auscul Pi Console after double touch the Auscul Pi Console icon. You can control the auscultation and replay by touching the “Auscultate” and “Replay” buttons with your fingertip.
+(GUI_TouchScreen.png)](README.md)
+
 
 ## Prerequisites
-### Install the Audio (Essential!!!)
+### Install the Scikit-learn (Essential!!!)
 This option is only adopted by Python specialist. There are several dependencies necessarily preinstalled in your Python interpreter:
 
-- **PyAudio**
+- **Scikit-learn**
 ```
-$ sudo apt install python3-pyaudio
+$ pip install sklearn
  ```
-Else if you are running python 2.7
-```
-$ sudo apt install python-pyaudio 
-```
-
-- Config the audio settings of Raspberry Pi
-Type the following command:
-```
-$ sudo raspi-config
-```
-Select "Advanced Options", then select "Audio", press Enter. After that select "Finish".
-
-### Test and Regulate the audio settings
-
-- Check the hardware of record and play configuration:
-The record function:
-```
-$ arecord -l
-```
-The play function:
-```
-$ aplay -l
-```
-Find the card # and device #
-For instance, the record is card 1 and device 0, and play is card 0 and device 0:
-
-- Adjust the volume:
-
-Use this command to adjust volume of microphone and speaker
-```
-$ alsamixer
-```
-Press F4 or F6 to select the volume
-
-- Test the audio:
-
-Speaker:
- ```
-$ speaker-test –t wav
-```
-Microphone:
-```
-$ arecord --format=S16_LE --duration=5 --rate=16000 --file-type=raw sample.wav
-aplay --format=S16_LE --rate=16000 sample.wav
-```
-### Touch screen installation
-- Change HDMI to Touch Screen:
-Copy and paste the following lines to terminal:
-```
-sudo rm -rf LCD-show 
-
-git clone https://github.com/goodtft/LCD-show.git 
-
-chmod -R 755 LCD-show 
-
-cd LCD-show/
-
-sudo ./LCD35-show
-```
-- Back to HDMI display mode:
-If you want to change Touch Screen back to HDMI display model, paste the following:
-```
-chmod -R 755 LCD-show 
-
-cd LCD-show/ 
-
-sudo ./LCD-hdmi
-```
-
-### PyInstaller
-For the GUI application, we'd better use mouse-click to open the application. Run this:
-```
-pip3 install pyinstaller
-```
-
-### Launch the application from desktop
-Create a new file called *AusculPiConsole.desktop*. Attention, the extesion of the file is .desktop! The content is as below:
-```
-[Desktop Entry]
-Name=Auscul Pi Console
-Comment= Application for LCECS
-Icon=
-Exec=/home/pi/Documents/Code/AusculPi/AusculPiConsole/AusculPiConsole
-Type=Application
-Encoding=UTF-8
-Terminal=false
-```
-
-## Data Share Link
-https://datadryad.org/stash/share/lDSF9RkBf0VN7pFyjrBa_gJ6Lw8Y9lKUBPAHu2CURvQ
 
 ## License
 The MIT License (MIT)
