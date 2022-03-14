@@ -44,4 +44,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contributor List
-- **Qiulei Dong**, High-school Student, Sewickley Academy 
+- **Qiulei Dong** Ph.D.
+Professor
+School of Artificial Intelligence
+University of Chinese Academy of Sciences
+Beijing, China
