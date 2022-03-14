@@ -10,7 +10,7 @@ Karyotyping is an important procedure in cytogenetic practice for an early diagn
 
 **Conclusions**: Our proposed DCNN-based model is able to classify normal and abnormal karyotypes effectively. It has the competence to be used as a predictive tool for abnormal karyotype detection and screening in genetic diagnosis without beforehand feature extraction. We believe our work is meaningful for genetic triage management at a low cost in clinical practice by significantly reducing the diagnostic workload, making up for the lack of clinical experience of doctors, and improving work efficiency and accuracy. 
 
-[(normalChromosomes.png)](README.md)
+[![Normal Chromosomes](normalChromosomes.png)](README.md)
 
 
 ## Prerequisites
