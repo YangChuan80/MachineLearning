@@ -45,7 +45,10 @@ SOFTWARE.
 
 ## Contributor List
 - **Qiulei Dong** Ph.D.
+
 Professor
+
 School of Artificial Intelligence
+
 University of Chinese Academy of Sciences
 Beijing, China
