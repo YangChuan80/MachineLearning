@@ -1,23 +1,28 @@
-# Karoytyping Pinnacle: Support Vector Machine
-Chromosome Classification via Support Vector Machine Applied in Patients with Structural Abnormalities of Chromosomes
+# Karoytyping Pinnacle: Deep Convolutional Neural Network
+Chromosome Classification via Deep Learning Machine Applied in Patients with Structural Abnormalities of Chromosomes
 
 ***Chuan Yang*** (<yangc@sj-hospital.org>)
 
 ## Introduction
 Karyotyping is an important procedure in cytogenetic practice for an early diagnosis of genetic diseases. The etiologies of many diseases originate from the abnormalities of karyotypes, such as leukemia, Down syndrome, simultaneous abortion, etc. So, the karyotype analysis is the basis and important reference for further diagnosis of genetics-related disease and preimplantation genetic diagnosis and screening. It has the advantages of ease of specimen aggregation and low testing costs. However, the clinical work of karyotyping is tedious, time-consuming, and sometimes error-prone, which is a heavy-load job even for an experienced cytogeneticist.
 
-The objective of this portion was to propose a support vector machine model for automatically classifying both normal and abnormal chromosomes with the extracted chromosome images from patients, and an assessment was made to evaluate the performance of the model on a further translation of clinical practice, so that automatic classification of chromosomes is achieved to reduce the workload of chromosome karyotype analysts.
+The objective of our study was to propose a novel DCNN-based model for automatically classifying both normal and abnormal chromosomes with the extracted chromosome images from patients, and an assessment was made to evaluate the performance of the model on a further translation of clinical practice, so that automatic classification of chromosomes is achieved to reduce the workload of chromosome karyotype analysts.
 
-(GUI_TouchScreen.png)](README.md)
+[![DCNN](DCNN.png)](README.md)
 
 
 ## Prerequisites
-### Install the Scikit-learn (Essential!!!)
+### Install the Scikit-learn
 This option is only adopted by Python specialist. There are several dependencies necessarily preinstalled in your Python interpreter:
 
 - **Scikit-learn**
 ```
 $ pip install sklearn
+ ```
+
+ - **TensorFlow**
+```
+$ pip install tensorflow
  ```
 
 ## License
