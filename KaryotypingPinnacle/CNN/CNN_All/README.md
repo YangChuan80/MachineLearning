@@ -14,7 +14,7 @@ The objective of our study was to propose a novel DCNN-based model for automatic
 
 With the obtained chromosome images above, we proposed the DCNN-based model to discriminate the 24 kinds of normal and 8 kinds of abnormal chromosomes. The architecture of our model contains 11 layers: three 3 × 3 convolutional layers, three max-pooling layers, one flatten layer, and four fully connected layers (Figure 2). As seen from Figure 2, the channel numbers of the three convolutional layers are 32, 64, and 64 respectively. The features extracted from each convolutional layer were down-sampled by a max-pooling layer with a 2 × 2 window, and the softmax function (cross-entropy) was used as the training loss function. 
 
-[![normalChromosomes](normalNabormalChromosomes.png)](README.md)
+[![normalChromosomes](normalNabnormalChromosomes.png)](README.md)
 
 **Figure 2**. The eight abnormal chromosomes (right in the pair) and the corresponding normal chromosomes (left in the pair) are displayed in pairs.
 
