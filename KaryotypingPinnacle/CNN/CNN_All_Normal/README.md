@@ -10,13 +10,13 @@ The objective of our study was to propose a novel DCNN-based model for automatic
 
 [![normalChromosomes](normalChromosomes.png)](README.md)
 
-Figure 1. The normal karyotype of included patient.
+**Figure 1**. The normal karyotype of included patient.
 
 With the obtained chromosome images above, we proposed the DCNN-based model to discriminate the 24 kinds of normal and 8 kinds of abnormal chromosomes. The architecture of our model contains 11 layers: three 3 × 3 convolutional layers, three max-pooling layers, one flatten layer, and four fully connected layers (Figure 2). As seen from Figure 2, the channel numbers of the three convolutional layers are 32, 64, and 64 respectively. The features extracted from each convolutional layer were down-sampled by a max-pooling layer with a 2 × 2 window, and the softmax function (cross-entropy) was used as the training loss function. 
 
 [![DCNN](DCNN.png)](README.md)
 
-Figure 2. The architecture of the DCNN-based model contains 11 layers: three 3 × 3 convolutional layers, three max-pooling layers, one flatten layer, and four fully connected layers. A. The model was applied to the images from the patients with normal karyotypes with a 24-neuron output layer. B. The model applied to the chromosomal images combining the normal chromosomes and abnormal chromosomes have the same architecture except the output layer with 32 neurons. C. The model implemented to the 8 abnormal chromosomal types compared with the corresponding normal ones has a two-neuron output layer.
+**Figure 2**. The architecture of the DCNN-based model contains 11 layers: three 3 × 3 convolutional layers, three max-pooling layers, one flatten layer, and four fully connected layers. **A**. The model was applied to the images from the patients with normal karyotypes with a 24-neuron output layer. **B**. The model applied to the chromosomal images combining the normal chromosomes and abnormal chromosomes have the same architecture except the output layer with 32 neurons. **C**. The model implemented to the 8 abnormal chromosomal types compared with the corresponding normal ones has a two-neuron output layer.
 
 
 ## Prerequisites
