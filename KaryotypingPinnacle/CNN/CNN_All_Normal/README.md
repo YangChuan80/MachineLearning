@@ -8,6 +8,7 @@ Karyotyping is an important procedure in cytogenetic practice for an early diagn
 
 The objective of our study was to propose a novel DCNN-based model for automatically classifying both normal and abnormal chromosomes with the extracted chromosome images from patients, and an assessment was made to evaluate the performance of the model on a further translation of clinical practice, so that automatic classification of chromosomes is achieved to reduce the workload of chromosome karyotype analysts.
 
+[![normalChromosomes](normalChromosomes.png)](README.md)
 [![DCNN](DCNN.png)](README.md)
 
 
