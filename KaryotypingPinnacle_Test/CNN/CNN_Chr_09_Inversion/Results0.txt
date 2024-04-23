@@ -1,0 +1,20 @@
+Accuracy: 0.9425287246704102
+
+AUC: 0.9590659340659341.
+
+Performance Report: 
+                 precision    recall  f1-score   support
+
+         chr_09       0.94      0.96      0.95        52
+chr_9_inversion       0.94      0.91      0.93        35
+
+      micro avg       0.94      0.94      0.94        87
+      macro avg       0.94      0.94      0.94        87
+   weighted avg       0.94      0.94      0.94        87
+
+
+Confusion Matrix: 
+                 chr_09  chr_9_inversion
+chr_09               50                2
+chr_9_inversion       3               32.
+

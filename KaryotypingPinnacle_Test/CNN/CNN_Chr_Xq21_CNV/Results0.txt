@@ -1,0 +1,20 @@
+Accuracy: 0.9791666865348816
+
+AUC: 1.0.
+
+Performance Report: 
+               precision    recall  f1-score   support
+
+        chr_x       0.97      1.00      0.99        38
+chr_x_q21_cnv       1.00      0.90      0.95        10
+
+    micro avg       0.98      0.98      0.98        48
+    macro avg       0.99      0.95      0.97        48
+ weighted avg       0.98      0.98      0.98        48
+
+
+Confusion Matrix: 
+               chr_x  chr_x_q21_cnv
+chr_x             38              0
+chr_x_q21_cnv      1              9.
+

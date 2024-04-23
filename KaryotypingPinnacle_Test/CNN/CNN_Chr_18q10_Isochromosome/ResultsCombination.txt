@@ -1,0 +1,30 @@
+Accuracy: 1.0
+
+AUC: 1.0.
+
+Performance Report: 
+                          precision    recall  f1-score   support
+
+                  chr_18       1.00      1.00      1.00       176
+chr_18_q10_isochromosome       1.00      1.00      1.00        31
+
+               micro avg       1.00      1.00      1.00       207
+               macro avg       1.00      1.00      1.00       207
+            weighted avg       1.00      1.00      1.00       207
+
+
+Confusion Matrix: 
+                          chr_18  chr_18_q10_isochromosome
+chr_18                       176                         0
+chr_18_q10_isochromosome       0                        31.
+
+Recall of Confusion Matrix: 
+                          chr_18  chr_18_q10_isochromosome
+chr_18                       1.0                       0.0
+chr_18_q10_isochromosome     0.0                       1.0.
+
+Precision of Confusion Matrix: 
+                          chr_18  chr_18_q10_isochromosome
+chr_18                       1.0                       0.0
+chr_18_q10_isochromosome     0.0                       1.0.
+
